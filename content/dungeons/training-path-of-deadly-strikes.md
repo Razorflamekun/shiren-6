@@ -30,13 +30,13 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
     <th>Bring Items</th>
     <td>No</td>
     <th>Stairs</th>
-    <td>Descending</td>
+    <td>Ascending</td>
   </tr>
   <tr>
     <th>Companions</th>
     <td>No</td>
     <th>Roamers</th>
-    <td>No</td>
+    <td></td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -50,13 +50,13 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Bracelets, Pots, Incenses</td>
   </tr>
   <tr>
     <th>Shops</th>
-    <td></td>
+    <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Yes (Regular)</td>
   </tr>
   <tr>
     <th>Behemoths</th>
@@ -68,7 +68,7 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
     <th>Kron's Challenge</th>
     <td></td>
     <th>Fever Time</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -84,19 +84,354 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
   </tr>
 </table>
 
-[Content]
+Mystery Dungeon where Shiren and enemy monsters only have 1 Max HP, no matter what.<br/>Defeating a monster doesn't grant any experience points, so it's also impossible to level up.<br/>The player starts with 3 Revival Grass, and more Revival Grass can be found inside the dungeon.<br/>Despite the harsh rules, the player's normal attacks and projectiles can still miss like usual.<br/>Overall, it's like Double Strike Cave (Shiren 4) and Double Strike Trail (Shiren 5), but more extreme.
 
 # Strategy
 
-### General
+### Dungeon Characteristics
+
+#### 1 Max HP (Player Can't Level Up)
+
+Both the player and enemy monsters have 1 Max HP, so receiving any damage makes them collapse.<br/>Defeated monsters don't grant experience points, so there's no way to increase Max HP.
+
+#### Revival Grass is Common
+
+The player starts with 3 Revival Grass, and more can be found inside the dungeon.
+
+#### Attacks Can Miss
+
+The player's normal attacks and projectiles can still miss like usual.<br/>Normal attacks have higher accuracy than projectiles, unless you're shooting Truestrike Arrows.
+
+#### Ranged Attacks are Great
+
+Attacking a monster from outside of their range means you don't need to gamble on a missed attack.<br/>Things that deal damage like Weeds and cursed items become a lethal weapon against distant foes.
+
+#### Other Notes
+
+- Revival Grass replenishes Fullness, so it's not necessary to carry food.
+- Thrown items that normally have a non-damaging effect will deal damage if they're cursed.
+- If there's a 1 tile gap between you and a Swift monster, retreat 1 step and use a normal attack.
+    - Normal attacks have higher accuracy than projectiles.
+- Blast Trap and Blasting Bracelet won't deal damage to Shiren, but enemies will collapse.
+- Shopkeepers, Guard Dogs, and Shop Guards also have 1 HP, so it's easier to steal from shops.
+
+### General Advice
+
+Hallways remain visible, so use the "Look Around" option in rooms to glance at the edges of nearby rooms.<br/>This technique can sometimes lead to spotting items or stairs that currently aren't displayed on the map.
+
+Use normal attacks as a last resort, since a missed attack is often -1 to the number of remaining lives.<br/>Arrows, rocks, cursed items, anything else that deals damage when thrown can all be used to one-shot a foe.<br/>When deciding what to keep when your inventory is full, ask yourself how many foes the item can take out.<br/>Swift monsters or ranged attackers appear from 2F onwards, so expect to burn through revives if you lose focus.<br/>If you're low on Revival Grass, don't be stingy with staves, Water Gun Pot, or other 100% accuracy options.
+
+There's almost no point in lingering on any given floor - It just wastes revives and other resources.<br/>Prioritize Revival Grass, stackable projectiles, pots, and staves while rushing to the stairs.<br/>Keep 2\~3 items that can deal with multiple foes (Slumber/Confusion/Windblade Scroll, Sweet Potato, etc.).<br/>Avoid checking rooms for items on floors where ranged attackers like Mini Tank appear.<br/>Larger rooms tend to cause more accidents than smaller rooms, so leave those for last if possible.
+
+#### Game Settings Tips
+
+The number of tiles visible in vertical directions is quite narrow, so a very common cause of collapsing<br/>is the player walking up or down and not reacting to an incoming enemy in time.
+
+- <span class="redText">Select "Look Around" or tilt the right analog stick → Tap R2 until field of view is fully zoomed out.</span>
+- <span class="redText">Adjust game settings so that walk speed is set to slow.</span>
+
+#### Sacred Tree Extension (99F)
+
+Things that can cause accidents increase starting from 31F, so stock as many Revival Grass as you can.<br/>Keep an eye out for Evasive Incense, Heat-ban Incense, and Blank Scrolls to be used as Eradication Scrolls.<br/>Kokatsu Shiren is probably the easiest character if you just want to clear the extension once.
+
+### Specific Monster Notes
+
+#### Field Knave Family
+
+- Field Knave family monsters throw Weeds up to 10 tiles ahead in a straight line.
+- If the thrown Weeds doesn't interact with an inventory item, it hits the player and deals 2 damage.
+    - Field Knave (88-99F) - Weeds always hits the player.
+    - Pot Knave (46-56F) - Weeds goes into an open pot or incense, otherwise hits the player.
+    - Bag Knave (6-13F) - Weeds knocks away a non-equipped item in inventory, otherwise hits the player.
+    - Nimble Knave (81-87F) - Weeds knocks away a non-equipped item in inventory, otherwise hits the player.
+- Throwing Weeds at a Field Knave monster increases their action speed instead of dealing damage.
+- The only way to dodge a Lv1 Field Knave's special is to use an Evasive Incense or Kappa's Dish.
+
+#### Hoppin' Batter Family
+
+- Hoppin' Batter family monsters are generally immune to projectiles and staves.
+    - Susceptible to projectiles and staves when it's sleeping.
+    - Negates projectiles when afflicted with Jittery, Confused, or Blind status.
+    - Sure-aim Bracelet, Truestrike Arrow, Silver Arrow, Far-throwing Bracelet, and Water Gun Pot are effective.
+
+#### Pullfrog Family
+
+- Pullfrog (57-63F)'s range is 3 tiles, Fleefrog (31-36F) and Streamingfrog (41-47F)'s range is 10 tiles.
+- Fleefrog and Streamingfrog attack on the same turn when they pull the player with their tongue.
+- Their special attack goes through corners, and also reaches 1 tile into a hallway from a room.
+- Expect to collapse if you miss a projectile against Lv3-4 Pullfrogs even if there's distance.
+
+#### Ninja Family
+
+- All ninjas have a higher chance to evade normal attacks, so prioritize projectiles or staves.
+- The special attack range and usage rates varies depending on ninja type:
+    - Fire, Tree, and Earth = 1 tile ahead, Water = 3 tiles ahead, Metal = 10 tiles ahead.
+    - Fire, Water, Metal = 100% special attack usage rate through hallway corners.
+    - Water, Metal = 100% special attack usage rate when the player is within range but not adjacent.
 
 ### Important Items
 
+#### Super Valuable Items
 
+<p><b><u>Rock / Porky's Rock / Silver Arrow / Burrowing Staff</u></b><br/>Counters King Reaper (20-24F), Pumplich (31-36F), Soul Reaper (64-72F), and Pumplord (77-99F).<br/>Sweet Potato, Slumber Scroll, Confusion Scroll, and Windblade Scroll also affect adjacent foes in walls.<br/>Silver Arrows can damage foes that are otherwise immune to projectiles, like Fierous and Hoppin' Batter families.</p>
+
+<p><b><u>Monster-find Bracelet</u></b><br/>Reveals distant enemies on the map, even before stepping into a room or getting close.<br/>Lets you conserve items by avoiding fights through planning routes in advance.</p>
+
+<p><b><u>Sure-aim Bracelet</u></b><br/>Projectile accuracy is normally around 84%, but this bracelet raises it to 100%.<br/>Thrown items will also hit Hoppin' Batter family monsters while this is equipped.</p>
+
+<p><b><u>Far-throwing Bracelet</u></b><br/>Lets you deal with monsters in walls without using Rocks, Silver Arrows, or Burrowing Staves.<br/>Thrown items can also hit Hoppin' Batter and Fierous family monsters while this is equipped.<br/>A single projectile can potentially defeat a line of enemies, letting you conserve items.</p>
+
+<p><b><u>Transmutation Pot</u></b><br/>Pot that provides a chance at obtaining Blank Scrolls used to eradicate N'dubbas or Field Knaves.<br/>Inserted items never transform into an item of the same category, so don't insert scrolls.<br/>Extraction Scroll can be found, so try to reuse the pot if possible.</p>
+
+#### Weapon
+
+<p><b><u>Pickaxe</u></b><br/>Pretty common, and lets you dig through walls to line up ranged attacks or create shortcuts, etc.<br/>Enemies have 1 HP in this dungeon, so upgrade value decreasing from digging doesn't matter.<br/>Pickaxes only have 1 rune slot, though, so you'll want a different weapon if synthesizing.</p>
+
+#### Weapon Runes
+
+<p><b><u>Accurate (Sacred Item)</u></b><br/>Very rarely found on sacred weapons - Guarantees a win versus an adjacent enemy.</p>
+
+<p><b><u>Frontal Attack (Kama Itachi)</u></b><br/>Attack around a corner to get 2 chances at hitting a monster before they get 1 chance to hit you.<br/>Much more common than the Accurate rune, but still somewhat rare.</p>
+
+<p><b><u>Rustproof (Golden Sword, Plating Scroll)</u></b><br/>Raises the accuracy of normal attacks by 2.0%, boosting consistency.<br/>The Rustproof rune gets erased first by Mudster or Mudder, providing protection for better runes.</p>
+
+<p><b><u>Swift Strikes (Swift Sword)</u></b><br/>25% chance to strike 2 times when attacking, effectively boosting accuracy.<br/>However, this rune is unnecessary if you have the Accurate rune.</p>
+
+<p><b><u>Quintessence (Quad-edge), Third Strike (Jagged Sword)</u></b><br/>Guarantees a 100% accuracy critical hit when activation conditions are met.<br/>Jagged Sword might seem hard to activate under these rules, but Swift Strikes or Frontal Attack runes help.</p>
+
+<p><b><u>Trap-finding (Trapseeker)</u></b><br/>Discovering a Blast Trap or Explosion Trap lets you safely defeat most monsters.<br/>That said, it's not worth going out of your way spending extra turns to check for traps.</p>
+
+#### Shield
+
+<p><b><u>Shield of Negation</u></b><br/>Nice for Skullmancer (20-24F), Skull Mage (37-44F), Skull Wizard (41-47F), and Skull Lord (48-52F) floors.<br/>Zabuton also serves as a counter to Lv1 Skull Mages.</p>
+
+<p><b><u>Zabuton</u></b><br/>Prevents damage from Skull Mage (37-44F), Grampadillo (31-34F), and Popdillo (57-63F)'s knockback.</p>
+
+<p><b><u>Kappa's Dish</u></b><br/>Nice for Mini Tank (26-30F, 37-44F), Field Knaves, Metal Ninjas (45-80F), Porky (88-99F), etc.</p>
+
+<p><b><u>Watchful Shield</u></b><br/>Reduces your risk of collapsing from a missed normal attack.</p>
+
+<p><b><u>Gazer Shield</u></b><br/>Nice for Hyper Gazer (17-25F) and Ultra Gazer (77-80F) floors.</p>
+
+<p><b><u>Shield of Presage</u></b><br/>Low priority, since Wishing Shrines haven't been sighted in this dungeon.</p>
+
+#### Bracelets
+
+<p><b><u>Blasting Bracelet</u></b><br/>The player doesn't receive damage from the explosion, but will one-shot adjacent creatures.<br/>Therefore, you can keep it equipped unless you're fighting Fierous family monsters.<br/>Can also be used to slowly dig through walls.</p>
+
+<p><b><u>Item-find Bracelet</u></b><br/>Lets you plan routes for checking rooms more optimally.<br/>However, keep in mind that this dungeon is generally one where you advance as you find the stairs.<br/>You're likely to consume more resources than you gain by chasing after 1 or 2 more items.</p>
+
+<p><b><u>Leaping Bracelet</u></b><br/>Lets you check rooms more quickly on floors with waterways or one-way hallways.<br/>It's safer if the warp activates from an action that isn't stepping in place or attacking,<br/>but relying on this bracelet often results in a collapse if there are swift monsters around.</p>
+
+<p><b><u>Rapid-fire Bracelet</u></b><br/>Raises projectile and thrown item accuracy from 84% → 92%, which is quite significant.</p>
+
+<p><b><u>Gitan-losing Bracelet</u></b><br/>Lets you restock Gitan to be used as a projectile, provided you have Gitan in your wallet.<br/>Steal from dungeon shops to make the most of it, and find a way to break its curse.</p>
+
+#### Projectiles
+
+<p><b><u>Truestrike Arrow</u></b><br/>Arrow that's guaranteed to hit its target, including Hoppin' Batter family monsters.<br/>It has a range of 10 tiles, but it's uncommon to find lots of them during a run.</p>
+
+<p><b><u>Gitan</u></b><br/>Exchange it with inventory items and throw it as a projectile.</p>
+
+#### Food
+
+<p><b><u>Sweet Potato</u></b><br/>Serves as both a food source and a room-clearing option.<br/>Be warned that a currently active incense effect will end when you eat it.</p>
+
+<p><b><u>Special Onigiri</u></b><br/>Occasionally increases Max Strength, which helps towards equipping 2 bracelets.<br/>The Knowledgeable status granting effect can also come in handy.</p>
+
+#### Grass
+
+<p><b><u>Revival Grass</u></b><br/>Hallways always remain visible even in the 99F extension, but accidents can still easily occur.<br/>Deathead, Streamingfrog, or a projectile can potentially one-shot you as soon as you step into a room.<br/>However, don't stock too many revives at the cost of crowd-control or ranged options - keep a balance.</p>
+
+<p><b><u>Invincible Grass</u></b><br/>The use case might seem similar to Revival Grass, but Invincible Grass is stronger against known threats.<br/>Invincible Grass can deal with a Mini Tank in the middle of a room, Monster House, Summoning Trap, etc.<br/>Pretty common, so some players like to eat it before stepping into a room on floors where ranged attackers appear.</p>
+
+<p><b><u>Swift Grass</u></b><br/>Used similarly to Sluggish Staff to safely defeat a monster in a 1 vs 1 situation.<br/>Can be eaten as insurance prior to stepping into a room on Mini Tank floors.</p>
+
+<p><b><u>Berserk Seed</u></b><br/>Throw it at a monster to disable its special attack for the duration of Berserk status.<br/>Can also be thrown at a monster to have the target clear out a room or Monster House for you.<br/>However, a Lv1-3 monster will lose Berserk status if it defeats another monster and levels up.</p>
+
+<p><b><u>Blinding Grass</u></b><br/>Use case is similar to Berserk Seed, but Blind status doesn't wear off from turns elapsing.</p>
+
+<p><b><u>Sedating Grass, Confusion Grass</u></b><br/>Confusion Grass can be thrown at a monster inside a Monster House or such,<br/>but Sedating Grass isn't too useful aside from temporarily disabling an incoming enemy in a hallway.<br/>If you can find a way to curse the Sedating Grass, it can be thrown to one-shot a monster instead.</p>
+
+<p><b><u>"2 Damage" Grasses</u></b><br/>Revival Grass, Weeds, Antidote Grass, Bellyexpand Seed, and Bellyshrink Seed deal 2 damage when thrown.</p>
+
+<p><b><u>Leaping Grass</u></b><br/>Emergency escape option, but keep in mind where you land isn't guaranteed to be safe.</p>
+
+<p><b><u>Fragrant Grass</u></b><br/>Does NOT deal damage even when thrown at an enemy.<br/>Increases the duration of an incense from 150 → 300 turns when selected as fuel.</p>
+
+#### Scrolls
+
+<p><b><u>Blank Scroll</u></b><br/>Obtained from dungeon shops or Transmutation Pots.<br/>Write Eradication Scroll and throw it at a N'dubba, Field Knave, or Fire Ninja family monster, etc.</p>
+
+<p><b><u>Plating Scroll</u></b><br/>Upgrade value doesn't matter, but the +2.0% accuracy increase for weapons is nice.<br/>Also offers protection against a single rune-erasing effect of Mudster or Mudder's ability.</p>
+
+<p><b><u>Pot-upsize Scroll, Extraction Scroll</u></b><br/>Read it on a Transmutation Pot to increase your chance of obtaining Blank Scrolls.</p>
+
+<p><b><u>Windblade Scroll, Fixer Scroll, Jitters Scroll</u></b><br/>Counters Summoning Traps or getting surrounded by monsters that can pass through walls.<br/>It's best to insert these scrolls in Identifier Pots or Exorcism Pots to check for curses.<br/>The paralyzing effect for Fixer Scroll requires 2 or more monsters to be adjacent to you.</p>
+
+<p><b><u>Confusion Scroll</u></b><br/>Read it in a room to temporarily disable monsters, but don't count on it when monsters are adjacent.</p>
+
+<p><b><u>Sanctuary Scroll</u></b><br/>Useful against select monsters, but ranged attackers will generally attack you regardless.</p>
+
+Monsters (family or individual) that are NOT safe even when standing on the scroll:
+
+- Firepuff, Field Knave, Skull Mage, Dragon, Porky, Mini Tank, Pop Tank, Ultra Gazer, Ninjas
+
+Monsters (family or individual) that are safe when standing on the scroll:
+
+- Metalhead, Pullfrog, Gazer (excluding Ultra Gazer), etc.
+
+##### Eradication Scroll Targets
+
+Eradicating N'dama is probably the highest priority among the following options.
+
+- N'dubba family - N'dama (26-44F), N'dulu (57-80F)
+- Field Knave family - Bag Knave (6-13F), Pot Knave (46-56F), Nimble Knave (81-87F), Field Knave (88-99F)
+- Fire Ninja family - Fire Ninja A (9-13F, 57-63F), Fire Ninja B (64-69F)
+
+#### Staves
+
+<p><b><u>Disguising Staff</u></b><br/>Decoys also collapse from a single hit, so don't expect it to buy much time.<br/>Swing it at a monster in a room before stepping into the room to check for other monsters,<br/>but avoid doing this trick on Sky Dragon (57-63F) and Porky (88-99F) floors.</p>
+
+<p><b><u>Burrowing Staff</u></b><br/>Swing it toward a monster hiding in a wall tile to one-shot them.</p>
+
+<p><b><u>Peach Staff</u></b><br/>Mini Tank Bun is probably your best Swift option in this dungeon.</p>
+
+<p><b><u>Knockback Staff</u></b><br/>100% accuracy ranged attack that can defeat 2 monsters if they're lined up.<br/>When used against a single target, a wall must be behind them to defeat them.</p>
+
+<p><b><u>Earthmound Staff</u></b><br/>Block off monsters that are chasing you, create a pillar over water and destroy it to cross a stream, etc.<br/>Deals 2 damage when swung at a target that is directly in front of you.<br/>Combine with a Pickaxe to surround yourself in wall tiles before safely revealing a N'dubba family monster.</p>
+
+<p><b><u>Sluggish Staff, Paralyzing Staff</u></b><br/>Sluggish Staff lets you safely defeat regular speed monsters.<br/>Attacking a monster with Paralyzed status isn't safe, since they'll attack back if you miss.<br/>Might be better used to create a blockade in hallways instead of swinging at single targets.</p>
+
+<p><b><u>Thunderbolt Staff</u></b><br/>Combine with Invincible Grass to quickly clear out a Monster House.<br/>The electricity can damage monsters in walls, but you can't swing it directly at a monster that's in a wall.<br/>Always be mindful that the electricity travels through adjacent creatures to avoid self-destructing.</p>
+
+<p><b><u>Vaulting Staff</u></b><br/>Most monsters aside from Porky can be turned into less of a threat by escaping 2 tiles into a hallway.<br/>The staff itself can't be used to defeat enemies, but it's still useful in a variety of situations.</p>
+
+#### Pots / Incenses
+
+<p><b><u>Preservation Pot</u></b><br/>Items are what let you avoid having to gamble on missed attacks, so being able to carry more is great.</p>
+
+<p><b><u>Identifier Pot</u></b><br/>Identify a staff and synthesize it using Mixermon (31-36F) or Mixergon (57-63F) to always know remaining uses.<br/>Can also be used to check for curses on scrolls when you lack an Exorcism Pot.</p>
+
+<p><b><u>Curse Pot</u></b><br/>Curse items that normally don't deal damage when thrown, like Sedating Grass, Confusion Grass, or Fragrant Grass.<br/>Don't forget that you can throw the pot itself to deal 2 damage to a target, too.</p>
+
+<p><b><u>Exorcism Pot</u></b><br/>Prioritize inserting scrolls that are read when adjacent, like Jitters Scroll and Fixer Scroll.<br/>It's generally quite risky to read such scrolls when the name is still yellow.</p>
+
+<p><b><u>Water Gun Pot</u></b><br/>Only has a range of 3 tiles, but 100% accuracy and can even one-shot Hoppin' Batter and Fierous monsters.<br/>However, it has no effect on Aquatic types (Pullfrog and Mudkin families in this dungeon).</p>
+
+<p><b><u>Cashing Pot</u></b><br/>Insert unneeded bracelets or sacred equipment to stash Gitan for shops.<br/>Can also be used to convert items that don't deal damage when thrown into Gitan bags.</p>
+
+<p><b><u>Evasive Incense</u></b><br/>Counters Mini Tank and Porky, but beware that your projectiles will also miss.<br/>Check how many Truestrike Arrows, Water Gun Pots, and staves you have left before lighting it.<br/>Can be used without worry if you have a Sure-aim Bracelet.</p>
+
+<p><b><u>Heat-ban Incense</u></b><br/>Great to have for Pop Tank family monsters and Dragons.<br/>Also lets you safely defeat Firepuff and Fire Ninja family monsters around corners.</p>
+
+<p><b><u>Blurry Incense</u></b><br/>Kind of a last resort when you don't have either Evasive Incense or Heat-ban Incense.<br/>Swing a Guiding Staff or read a Mapping Scroll beforehand to locate the stairs before lighting it.<br/>Extremely powerful when used alongside a Monster-find Bracelet.</p>
 
 # Floor Guide
 
+<h3 class="heading3First">First Clear (1-30F)</h3>
 
+### 1F
+
+<p><span class="highlightYellow">Notable:</span> Blazepuff (1-5F), Cursenior (1-5F)</p>
+
+A relatively safe floor that doesn't feature any monsters with Swift speed or ranged attacks.<br/>Blazepuff breathes fire through hallway corners, and Cursenior curses any 2 items in your inventory.<br/>Don't dash under any circumstances - including using Handy Dash in hallways - and you should be fine.
+
+### 2-5F
+
+<p><span class="highlightYellow">Notable:</span> Blazepuff (1-5F), Cursenior (1-5F), Great Hen (2-8F), Thrashead (4-8F)</p>
+
+Great Hen has Swift 1 speed, and Thrashead attacks up to 3 tiles ahead - <span class="blueText">Look Around</span> when you enter a room.<br/>If you see a creature moving somewhere on the screen, stop moving and plan your next inputs carefully.<br/>If there's a 1 tile gap between you and a Great Hen, retreat 1 tile and use a normal attack for higher accuracy.<br/>It becomes harder to explore for items starting from the next floor range, so check all rooms up to 5F.
+
+### 6-8F
+
+<p><span class="highlightYellow">Notable:</span> Great Hen (2-8F), Thrashead (4-8F), Metal Ninja A (6-8F), Hell Reaper (6-8F), Bag Knave (6-13F)</p>
+
+Metal Ninja A has a higher chance of evading normal attacks, and throws Gitan up to 10 tiles ahead.<br/>Try to deal with Metal Ninjas in hallways if you lack a 100% accuracy option like staves or Truestrike Arrows.<br/>Hell Reaper has Swift 2 speed, meaning it moves at double speed and can attack 2 times in the same turn.<br/>Bag Knave throws Weeds 10 tiles ahead, but you're safe if you have an item on hand that can be parried.<br/>Don't throw Weeds at Field Knave monsters, as it boosts their action speed instead of dealing damage.
+
+### 9-13F
+
+<p><span class="highlightYellow">Notable:</span> Bag Knave (6-13F), Water Ninja B (9-13F), Cyberoid (9-13F), Lashagga (9-16F), Battler (9-16F)</p>
+
+Fire Ninja A (9-13F) and Bag Knave destroy items found on the ground, so it's best to hurry ahead.<br/>Battler disarms an equipped weapon, shield, or bracelet - Be very careful if there are Bag Knaves nearby.<br/>Cyberoid (Swift 1) is always generated with Napping status, and wakes when you enter or exit the room.<br/>If you need to walk next to a sand pillar, shoot a projectile at it first to check for a hidden Earth Ninja A.<br/>Water Ninja B's special attack has a range of 3 tiles in a straight line, and it also hits through corners.<br/>Lashagga attacks 3 times per turn, so expect to collapse if you let it attack you when adjacent.
+
+### 14-19F
+
+<p><span class="highlightYellow">Notable:</span> Megahead (14-19F), Hiding Dragon (14-19F), Okina/Tengu Monk A (17-22F), Hyper Gazer (17-25F)</p>
+
+Megahead attacks in a straight line from up to 4 tiles away, and hits through hallway corners.<br/>Hiding Dragon has Swift 1 speed, and aims for pincer attacks in hallways if there's an enemy behind it.<br/>The trio of Okina, Okame, and Tengu monks appear on 17-22F - Expect to be ambushed by hastened monsters.<br/>Hyper Gazer's hypnosis can potentially lead to item loss, so don't let it act when adjacent.<br/>Overall, it's best to limit the amount of time spent in rooms, and rush to the stairs.
+
+### 20-24F
+
+<p><span class="highlightYellow">Notable:</span> Okina/Tengu Monk A (17-22F), Hyper Gazer (17-25F), King Reaper (20-24F), Skullmancer (20-24F)</p>
+
+King Reaper has Swift 2 speed, passes through walls, and rushes at you from anywhere on the floor.<br/>Step in place at the start of the floor to lure King Reapers into the room instead of entering a hallway,<br/>but expect other monsters to get sent into the room by Okina Monk A while doing so as well.
+
+Skullmancer's magic doesn't include any effects that instantly make you collapse, but it's still dangerous.<br/>Lordly Samurai (20-25F) revives as Ghost Samurai - Hunt the Ghost Samurai to avoid Ultra Gazer being created.
+
+### 26-30F
+
+<p><span class="highlightYellow">Notable:</span> Tree Ninja A (25-30F), Mini Tank (26-30F), Water Ninja A (26-30F), Igneous (26-30F), N'dama (26-44F)</p>
+
+Mini Tank has Swift 1 speed, and shoots Silver Arrows from any distance when lined up in a room.<br/>Igneous is immune to projectiles that lack piercing properties - Use Silver Arrows or Far-throwing Bracelet.<br/>N'dama doesn't reveal its disguise until you use the item, making item collection quite risky.<br/>If you're aiming for the 1st clear, go ahead and use Evasive Incense, Invincible Grass, etc. to hurry onward.
+
+But if you're playing the extension, be more reserved with items while trying to advance floors quickly.<br/>Throw an Eradication Scroll at N'dama to make it easier to stock items for upcoming dangerous floor ranges.<br/>Some players think lingering for Silver Arrow drops from defeated Mini Tanks can be worthwhile,<br/>but the drop rate for Silver Arrows is very low, so it's honestly not recommended.
+
+<h3 class="heading3Tree">Sacred Tree Mode (31-99F)</h3>
+
+### 31-36F
+
+<p><span class="highlightYellow">Notable:</span> N'dama (26-44F), Deathead (31-36F), Pumplich (31-36F), Fleefrog (31-36F), Ornery Tank (35-40F)</p>
+
+Pumplich passes through walls and detects you from anywhere - Step in place to lure them into the starting room.<br/>Deathead attacks from up to 5 tiles away in a straight line, and Fleefrog 10 tiles away.<br/>Ornery Tank appears from 35F, and can snipe you with a cannonball when you try to step into a room.<br/>One way to check for Ornery Tanks is to throw a Berserk Seed at a monster in the room before entering the room.
+
+Mixermon (31-36F) lets you synthesize items - It'd be good to combine Vaulting and Earthmound staves.<br/>31-34F is safer for synthesizing since there's no risk of Ornery Tanks destroying items on the ground.<br/>Don't forget to check for curses by swinging each staff once beforehand.
+
+### 37-44F
+
+<p><span class="highlightYellow">Notable:</span> N'dama (26-44F), Adamant Tank (37-40F), Mini Tank (37-44F), Skull Mage (37-44F), Streamingfrog (41-47F)</p>
+
+<p><span class="redText">Danger Zone</span> - Expect accidents unless you lucked out and found a Monster-find Bracelet.<br/>Use every trick you can think up to quickly locate the stairs and advance to the next floor.<br/>N'dama is still around, so don't trust items you find on the ground unless you've eradicated N'damas.</p>
+
+Mini Tank and Adamant Tank both have Swift 1 speed and snipe you when you're lined up in a room.<br/>Use an Evasive Incense or Heat-ban Incense if you have one, and consider eradicating the remaining threat.<br/>Skull Mage and Skull Wizard (41-47F) have the potential to one-shot you with their magic when lined up,<br/>and Streamingfrog can pull you closer and attack on the same turn within a range of 10 tiles.<br/>The only way to avoid Streamingfrog's ability is to either stay in Sumo status, or equip an Unmoving Wall.<br/>Use Disguising Staff or thrown Berserk Seeds to check for monsters in rooms before entering them.
+
+### 45-56F
+
+<p><span class="highlightYellow">Notable:</span> Skull Wizard (41-47F), Streamingfrog (41-47F), Metal Ninja C/B (45-63F), Infernous (45-52F),<br/>Pot Knave (45-56F), Skull Lord (48-52F), Electroid (48-56F), Pyrepuff (48-56F)</p>
+
+N'dama finally exits the monster table, but collecting items is still difficult due to Pot Knaves.<br/>Pot Knave throws Weeds 10 tiles ahead - You're safe from taking damage if you have an open pot or incense.<br/>The ideal counter is to keep 1 slot open in a Preservation Pot, or throw an Eradication Scroll if you lack pots.
+
+Infernous is immune to projectiles that lack piercing properties - Use Silver Arrows or Far-throwing Bracelet.<br/>Metal Ninjas throw Gitan 10 tiles ahead, so it's not safe to use projectiles against it in rooms,<br/>unless the projectile is a Truestrike Arrow or you have a Sure-aim Bracelet equipped.<br/>Other 100% accuracy ranged attack options include Water Gun Pot and staves like Thunderbolt Staff.<br/>Skull Lord's magic basically has a 2/4 chance to one-shot you, so use a Reflective Incense or such.
+
+### 57-63F
+
+<p><span class="highlightYellow">Notable:</span> Metal Ninja B (53-63F), Sky Dragon (57-63F), Hoppin' Slammer (57-63F), N'dulu (57-80F)</p>
+
+Sky Dragon spews fire from anywhere in the same room, making it extremely dangerous.<br/>Collecting items is still hard due to Fire Ninja A (57-63F) and N'dulu, who reveals itself when you change floors.<br/>If you have lots of Revival Grass, you can swing a Narrow-escape Staff at Hoppin' Slammer to warp to the stairs.<br/>Mixergon (57-63F) also appears, but it's not really worth lingering for synthesis purposes at this point.<br/>Pullfrog (57-63F) has a special attack usage range of 3 tiles, but it can't attack on the same turn.
+
+### 64-72F
+
+<p><span class="highlightYellow">Notable:</span> Metal Ninja D (64-80F), N'dulu (57-80F), Fire Ninja B (64-69F), Soul Reaper (64-72F),<br/>Bashagga (64-76F), Pop Tank (70-74F), Polygon Singa (70-76F)</p>
+
+Soul Reaper has Swift 2 speed and passes through walls - Step in place to lure them into the starting room.<br/>Polygon Singa often forces adjacent encounters, which can be annoying if you lack the Accurate rune.<br/>Bashagga attacks 4 times per turn, so expect to collapse if you let it attack you when adjacent.<br/>The combination of Fire Ninja B and N'dulu still makes it rather difficult to stock up on items,<br/>and it's best to wait until the next floor before using new items to account for disguised N'dulus.<br/>Ranged attackers are limited to Pop Tank and Metal Ninja, so it should be an easier floor range than earlier.
+
+### 73-80F
+
+<p><span class="highlightYellow">Notable:</span> Metal Ninja D (64-80F), N'dulu (57-80F), Miracle Hen (73-80F), Ultra Gazer (77-80F), Pumplord (77-99F)</p>
+
+Use a Reflective Incense if you have one to counter Ultra Gazer, and just rush to the stairs.<br/>Miracle Hen has Swift 2 speed but can only attack when it's adjacent to you, so it shouldn't be too bad.<br/>Pumplord has Normal speed and passes through walls, but can be dealt with easily if you have rocks,<br/>so it might not be worthwhile to step in place at the start of a floor to lure them to you.
+
+### 81-87F
+
+<p><span class="highlightYellow">Notable:</span> Pumplord (77-99F), Nimble Knave (81-87F), Dragon (81-99F), Okina Monk B (81-99F), Okame Monk B (85-99F)</p>
+
+Okina Monk B appears for the rest of the dungeon, and sends monsters near you from elsewhere on the floor.<br/>Consider eradicating Okina Monk B if you want, but keep in mind that Tengu Monk B appears later.<br/>Ranged attackers include Dragon and Nimble Knave, who use their special attack when you're lined up.<br/>Okame Monk B appears on 85-99F, making it harder to utilize status effects to bypass monsters.<br/>Nimble Knave can't actually hurt you with thrown Weeds if you have at least 1 item in your inventory,<br/>provided said item isn't a currently equipped weapon, shield, or bracelet.
+
+### 88-99F
+
+<p><span class="highlightYellow">Notable:</span> Pumplord (77-99F), Dragon (81-99F), Okina Monk B (81-99F), Okame Monk B (85-99F), Porky (88-99F),<br/>Death Reaper (88-99F), Dragon Pit (88-99F), Hoppin' Slugger (88-99F), Tengu Monk B (91-99F)</p>
+
+Porky's rock throwing range is a 3 tile radius, and it throws rocks even if Shiren isn't in direct view.<br/>If you don't have any Revival Grass left, only input 1 action at a time even when you're in a hallway.<br/>Okina Monk B continues to send in monsters until the end, so you can't really avoid fights.<br/>Tengu Monk B adds pressure by increasing the action speed of other monsters, so just rush to the stairs.<br/>You know how to handle swift and ranged monsters at this point, so utilize all items and do your best!
 
 # Monsters
 
