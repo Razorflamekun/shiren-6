@@ -21,90 +21,90 @@ metaDescription: "Complete food details for Shiren the Wanderer: The Mystery Dun
   </tr>
   <tr>
     <th>Name</th>
-    <th>Buy</th>
-    <th>Sell</th>
     <th>Fullness</th>
     <th>Max+</th>
+    <th>Buy</th>
+    <th>Sell</th>
     <th>Notes</th>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#onigiri">Onigiri</a></td>
     <td>50</td>
-    <td>20</td>
-    <td>50</td>
     <td>3</td>
+    <td>50</td>
+    <td>20</td>
     <td class="leftText">No additional effect.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#large-onigiri">Large Onigiri</a></td>
-    <td>150</td>
-    <td>60</td>
     <td>100</td>
     <td>4</td>
+    <td>150</td>
+    <td>60</td>
     <td class="leftText">No additional effect.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#huge-onigiri">Huge Onigiri</a></td>
-    <td>400</td>
-    <td>160</td>
     <td>250</td>
     <td>5</td>
+    <td>400</td>
+    <td>160</td>
     <td class="leftText">Raises max fullness by 5.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#rotten-onigiri">Rotten Onigiri</a></td>
-    <td>10</td>
-    <td>4</td>
     <td>30</td>
     <td>0</td>
+    <td>10</td>
+    <td>4</td>
     <td class="leftText">Receive 5 damage and a random bad effect.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#grilled-onigiri">Grilled Onigiri</a></td>
-    <td>70</td>
-    <td>28</td>
     <td>75</td>
     <td>2</td>
+    <td>70</td>
+    <td>28</td>
     <td class="leftText">Restores 40 HP.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#special-onigiri">Special Onigiri</a></td>
-    <td>5000</td>
-    <td>2000</td>
     <td>30</td>
     <td>2</td>
+    <td>5000</td>
+    <td>2000</td>
     <td class="leftText">Receive a random good effect.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#sumo-onigiri">Sumo Onigiri</a></td>
-    <td>3000</td>
-    <td>1200</td>
     <td>250</td>
     <td>※</td>
+    <td>3000</td>
+    <td>1200</td>
     <td class="leftText">Grants Sumo status. ※ Raises max fullness to 150.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#sweet-potato">Sweet Potato</a></td>
     <td>50</td>
-    <td>20</td>
-    <td>50</td>
     <td>2</td>
+    <td>50</td>
+    <td>20</td>
     <td class="leftText">Enemies clear out of the room due to Shiren's fart.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#yakitori">Yakitori</a></td>
     <td>50</td>
-    <td>25</td>
-    <td>50</td>
     <td>2</td>
+    <td>50</td>
+    <td>25</td>
     <td class="leftText">No additional effect.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#rotten-peach-bun">Rotten Peach Bun</a></td>
-    <td>20</td>
-    <td>8</td>
     <td>30</td>
     <td>0</td>
+    <td>20</td>
+    <td>8</td>
     <td class="leftText">Receive 5 damage and a random bad effect.</td>
   </tr>
 </table>

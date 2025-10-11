@@ -86,33 +86,86 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
 
 Hidden route that unlocks when you've reached Beachside Pier once and visit Small Harbor twice?<br/>The floor numbers are displayed as 1-7F, but the dungeon corresponds to 10-15F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on 4F.<br/>Once unlocked, this dungeon can be entered anytime.
 
+# Navigation
+
+<ul class="quickLinksUL">
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#general-advice">General Advice</a></li>
+    </ul>
+  </li>
+  <li><a href="#floor-guide">Floor Guide</a>
+    <ul>
+      <li><a href="#1-7f">1-7F</a></li>
+    </ul>
+  </li>
+  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#behemoths">Behemoths</a></li>
+  <li><a href="#items">Items</a>
+    <ul>
+      <li><a href="#weapon">Weapon</a></li>
+      <li><a href="#shield">Shield</a></li>
+      <li><a href="#bracelet">Bracelet</a></li>
+      <li><a href="#projectile">Projectile</a></li>
+      <li><a href="#food-(items)">Food</a></li>
+      <li><a href="#grass">Grass</a></li>
+      <li><a href="#scroll">Scroll</a></li>
+      <li><a href="#stave">Staff</a></li>
+      <li><a href="#pot">Pot</a></li>
+      <li><a href="#incense">Incense</a></li>
+    </ul>
+  </li>
+</ul>
+
 # Strategy
 
-### General
+<h3 id="general-advice" class="heading3Yellow">General Advice</h3>
 
-The main characteristic of this dungeon is that Behemoth Monsters can occur on all floors.<br/>In addition, only monsters with swift action speed spawn between 1-4F, so retreating is ineffective.<br/>This means you'll need a shield strong enough to withstand Karakuroid and Hell Reaper's attacks.<br/>That said, Karakuroid has 20 attack and Hell Reaper has 12 attack, so the requirement isn't very high.<br/>Otherwise, the only other monster that spawns is Bowboy between 5-7F, so it's not too bad.
+The main characteristic of this dungeon is that Behemoth Gates can occur on all floors.<br/>In addition, only monsters with swift action speed spawn between 1-4F, so retreating is ineffective.<br/>This means you'll need a shield strong enough to withstand Karakuroid and Hell Reaper's attacks.<br/>That said, Karakuroid has 20 attack and Hell Reaper has 12 attack, so the requirement isn't very high.<br/>Otherwise, the only other monster that spawns is Bowboy between 5-7F, so it's not too bad.
 
-Overall, this dungeon is mostly pointless, since shops don't spawn and you miss out on a blacksmith.<br/>The only real benefit is that sacred items can occasionally be found on the ground.
+Overall, this dungeon is mostly pointless, since shops don't spawn and you miss out on a blacksmith.<br/>The only real benefit is that Blue Sacred or Golden Sacred items can occasionally be found.<br/>Lastly, don't forget that rescues are not allowed in hidden routes.
+
+# Floor Guide
+
+### 1-7F
+
+<p><span class="purpleText2">Behemoth Gates have a chance of being generated on all floors.</span><br/>Beware of Behemoth Pumphantasms in particular, since they can pass through walls.<br/>1 Rock or Porky's Rock is enough to one-shot them from any direction, as rocks arc over their barrier.<br/>Rocks will still hit monsters that are inside walls, provided you have the proper line of sight.</p>
+
+Karakuroid (1-7F) has <span class="pinkText">Swift 1</span> speed, meaning it moves 2 times per turn but only attacks 1 time.<br/>It's always generated with Napping status, and always wakes up when you enter or exit the room.<br/>It also has the ability to create traps, and stops acting for 2 turns after doing so.
+
+Hell Reaper (1-7F) has <span class="pinkText">Swift 2</span> speed, meaning it does any 2 actions per turn, including attacking twice.<br/>This monster doesn't hit very hard, though, so you should be fine if you have a half-decent shield.
+
+Bowboy (5-7F) shoots Wooden Arrows from up to 10 tiles away in a straight line.<br/>Bowboy can be used to collect arrows if you have an Earthmound Staff or Evasive Incense,<br/>but don't attempt any farming techniques until you've made the Behemoth Gate vanish first.<br/>A Behemoth Gate vanishes and leaves behind an item once you've entered every room on the floor.
+
+#### Monster Stats (1-7F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|1-7|Karakuroid|40|20|13|30|Metal|
+|1-7|Hell Reaper|45|12|15|30|Ghost/Floating|
+|5-7|<span class="lightBlueText">Bowboy</span>|45|17|18|60|Normal|
+
+</div>
 
 # Monsters
+
+<button id="hideMonTblImgBtn" onClick={()=>{var mon_imgs = document.querySelectorAll('#monsterTable img');mon_imgs.forEach(e => e.classList.toggle('hidden'));}}>Toggle Monster Images</button>
 
 See [Monsters](/system/monsters) for individual monster details.
 
 - F - <span class="highlightFog">Dark hallways</span>
-- S - <span class="highlightShop">Shop is possible</span>
-- H - <span class="highlightMH">Monster House is possible</span>
-- G - <span class="highlightGold">Golden Egg Thing is possible</span>
-- B - <span class="highlightBehemoth">Behemoth Monsters are possible</span>
+- M - <span class="highlightMH">Monster House is possible</span>
+- B - <span class="highlightBehemoth">Behemoth Gate is possible</span>
 
 Monster Colors = <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
 
-<table class="monsterTable">
+<table id="monsterTable" class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
-      <th>S</th>
-      <th>H</th>
-      <th>G</th>
+      <th>M</th>
       <th colspan="3">Monsters</th>
       <th>B</th>
     </tr>
@@ -120,8 +173,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tbody>
     <tr>
       <td class="centeredText">1</td>
-      <td class=""></td>
-      <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
@@ -134,8 +185,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">2</td>
       <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td class="highlightGray"></td>
@@ -146,8 +195,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">3</td>
-      <td class=""></td>
-      <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
@@ -160,8 +207,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">4</td>
       <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td class="highlightGray"></td>
@@ -172,12 +217,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">5</td>
-      <td class=""></td>
       <td class="highlightMH"></td>
-      <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td class="useful"><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td class="highlightBehemoth"></td>
     </tr>
     <tr>
@@ -186,11 +229,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText highlightFog">6</td>
       <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td class="useful"><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td class="highlightBehemoth"></td>
     </tr>
     <tr>
@@ -198,12 +239,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText highlightFog">7</td>
-      <td class=""></td>
       <td class="highlightMH"></td>
-      <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td class="useful"><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td class="highlightBehemoth"></td>
     </tr>
   </tbody>
@@ -211,7 +250,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
 
 # Behemoths
 
-<table class="monsterTable">
+<button id="hideMonTblImgBtn" onClick={()=>{var mon_imgs = document.querySelectorAll('#behemothTable img');mon_imgs.forEach(e => e.classList.toggle('hidden'));}}>Toggle Monster Images</button>
+
+<p></p>
+
+<table id="behemothTable" class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
@@ -222,7 +265,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="1" class="centeredText">1-7</td>
       <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
-      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td class="danger"><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
       <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
     </tr>
   </tbody>
@@ -230,18 +273,28 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
 
 # Items
 
-- F = Floor
-- S = Shop
-- P = Peddler
-- M = Monster drop
-- B = Buried
-- H = Thiefwalrus
-- I = Island
-- T = Transmutation Pot
-- U = Surprise Pot
-- W = Tunnel of Wishes
+<p><span class="orangeText">※ This section is currently incomplete.</span></p>
 
-#### Weapon
+<h4 id="item-table-key" class="heading4Blue"> Item Table Key</h4>
+
+<div class="itemTableKey">
+
+|ID|Explanation|
+|-|-|
+|F|Floor|
+|S|Shop|
+|P|Peddler|
+|M|Monster drop|
+|B|Buried|
+|H|Thiefwalrus|
+|I|Island|
+|T|Transmutation Pot|
+|U|Surprise Pot|
+|W|Tunnel of Wishes|
+
+</div>
+
+<h4 id="weapon" class="heading4Blue"><img src="../images/weapon/18.png"/> Weapon</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -756,7 +809,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Shield
+<h4 id="shield" class="heading4Blue"><img src="../images/shield/8.png"/> Shield</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -1206,7 +1259,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Bracelet
+<h4 id="bracelet" class="heading4Blue"><img src="../images/other/bracelet.png"/> Bracelet</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -1708,7 +1761,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Projectile
+<h4 id="projectile" class="heading4Blue"><img src="../images/other/arrow.png"/> <img src="../images/other/rock.png"/> Projectile</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -1820,7 +1873,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Food
+<h4 id="food-(items)" class="heading4Blue"><img src="../images/other/food.png"/> Food</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -1971,7 +2024,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Grass
+<h4 id="grass" class="heading4Blue"><img src="../images/other/grass.png"/> Grass</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -2343,7 +2396,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Scroll
+<h4 id="scroll" class="heading4Blue"><img src="../images/other/scroll.png"/> Scroll</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -2845,7 +2898,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Staff
+<h4 id="staff" class="heading4Blue"><img src="../images/other/staff.png"/> Staff</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -3126,7 +3179,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Pot
+<h4 id="pot" class="heading4Blue"><img src="../images/other/pot.png"/> Pot</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -3420,7 +3473,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
 </table>
 
-#### Incense
+<h4 id="incense" class="heading4Blue"><img src="../images/other/incense.png"/> Incense</h4>
 
 <table class="dungeonItemTable">
   <tr>

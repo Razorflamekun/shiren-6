@@ -96,13 +96,58 @@ metaDescription: "Serpentcoil Island (main story) dungeon guide for Shiren the W
 
 The main story dungeon, featuring 31 floors with the final floor being a one-time boss fight.<br/>It's similar to Shiren 1 in structure, with many villages and overworld rest areas along the way.<br/>Mixer, Synthesis Pot, Peach Club, Peach Staff, Disguising Staff, and Escape Scroll can't be found<br/>until you've completed certain events - So the player can't synthesize items during the 1st attempt.
 
-Escape Scrolls are unlocked by clearing a post-game dungeon, and Undo Grass isn't in the game.<br/>The only way to save items is to send them to the warehouse using a Warehouse Pot or the Hikyaku NPC.
+Escape Scrolls are unlocked by clearing a postgame dungeon, and Undo Grass isn't in the game.<br/>The only way to save items is to send them to the warehouse using a Warehouse Pot or Hikyaku NPC.
 
 Despite the lack of synthesis, the dungeon can be cleared on your 1st attempt if you're experienced.<br/>However, if you're new to Shiren games, expect to collapse a number of times before you clear it.
 
+# Navigation
+
+<ul class="quickLinksUL">
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#general-advice">General Advice</a></li>
+    </ul>
+  </li>
+  <li><a href="#floor-guide">Floor Guide</a>
+    <ul>
+      <li><a href="#sozoro-bay-(1-2f)">Sozoro Bay (1-2F)</a></li>
+      <li><a href="#suzunari-pass-(3-4f)">Suzunari Pass (3-4F)</a></li>
+      <li><a href="#mountain-village">Mountain Village</a></li>
+      <li><a href="#mount-jingara-(5-9f)">Mount Jingara (5-9F)</a></li>
+      <li><a href="#small-harbor">Small Harbor</a></li>
+      <li><a href="#underwater-passage-(10-12f)">Underwater Passage (10-12F)</a></li>
+      <li><a href="#underwater-training-ground">Underwater Training Ground</a></li>
+      <li><a href="#underwater-passage-(13-15f)">Underwater Passage (13-15F)</a></li>
+      <li><a href="#kibanuma-marsh-(16-18f)">Kibanuma Marsh (16-18F)</a></li>
+      <li><a href="#hot-spring-cabin">Hot Spring Cabin</a></li>
+      <li><a href="#firespew-mountain-(19-23f)">Firespew Mountain (19-23F)</a></li>
+      <li><a href="#mount-jatou-(24-26f)">Mount Jatou (24-26F)</a></li>
+      <li><a href="#icewall-village">Icewall Village</a></li>
+      <li><a href="#mount-jatou-(27-30f)">Mount Jatou (27-30F)</a></li>
+      <li><a href="#boss-(31f)">Boss (31F)</a></li>
+    </ul>
+  </li>
+  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#behemoths">Behemoths</a></li>
+  <li><a href="#items">Items</a>
+    <ul>
+      <li><a href="#weapon">Weapon</a></li>
+      <li><a href="#shield">Shield</a></li>
+      <li><a href="#bracelet">Bracelet</a></li>
+      <li><a href="#projectile">Projectile</a></li>
+      <li><a href="#food-(items)">Food</a></li>
+      <li><a href="#grass">Grass</a></li>
+      <li><a href="#scroll">Scroll</a></li>
+      <li><a href="#stave">Staff</a></li>
+      <li><a href="#pot">Pot</a></li>
+      <li><a href="#incense">Incense</a></li>
+    </ul>
+  </li>
+</ul>
+
 # Strategy
 
-### General
+<h3 id="general-advice" class="heading3Yellow">General Advice</h3>
 
 Enemies generally have high attack power in Shiren 6, and synthesis isn't available right away.<br/>This means you'll quickly end up collapsed if you try to trade hits during the 2nd half of the dungeon.
 
@@ -121,7 +166,7 @@ Some of the basics when trying for a 1st attempt clear:
     - Make full use of staves and other items to disable enemies while searching for the stairs.
 - Monster-find Bracelet is an immense help for later floors, so always buy it if a shop has it.
     - This bracelet costs 2500 Gitan in this game.
-- Prioritize equipment with high stats instead of focusing on runes (special abilities).
+- Prioritize equipment with high base value instead of focusing on runes (special abilities).
     - Resonance can add to stats, like Katana + Iron Shield = +3 attack and defense.
 - Save any Mapping Scrolls you find for 27-30F instead of using them right away.
 
@@ -143,15 +188,42 @@ For consistency, aim to linger until your level reaches "current floor number + 
 
 Pots and bracelets are unidentified in this dungeon - If you find a pot, try inserting an item.<br/>Preservation Pots increase the number of items you can carry, and also protect food from rotting.<br/>In this dungeon, items are never found cursed and negative effect bracelets can't be found,<br/>so it's fine to equip unidentified bracelets to check for effects.
 
+#### Monster Stats (1-2F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|1-2|Mamel|8|3|4|2|Normal|
+|1-2|Octopling|14|4|6|4|Aquatic|
+|1-2|Spearfish|16|6|2|7|Aquatic|
+|2-3|Pit Mamel|11|5|8|5|Normal|
+
+</div>
+
 ### Suzunari Pass (3-4F)
 
 <div class="dungeonPageImage">
   <img src="../images/areas/serpentcoil/area_2.jpg"/>
 </div>
 
-Pumphantasm (23 HP, 16 atk, 10 def) often deals 15+ damage without a shield.<br/>Always position yourself so that you have an escape route when facing a Pumphantasm,<br/>and throw a Gitan bag worth at least 115 Gitan to one-shot them if needed.
+Pumphantasm (3-4F) often deals 15+ damage without a shield.<br/>Always position yourself so that you have an escape route when facing a Pumphantasm,<br/>and throw a Gitan bag worth at least 115 Gitan to one-shot them if needed.
 
-Froggo (23 HP) always drops Gitan when defeated, and can't steal Gitan bags in your inventory.<br/>If you have extra food, consider hunting them on 4F to earn money for the upcoming village's shop.
+Froggo (4F) always drops Gitan when defeated, and can't steal Gitan bags in your inventory.<br/>If you have extra food, consider hunting them on 4F to earn money for the upcoming village's shop.
+
+#### Monster Stats (3-4F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|2-3|Pit Mamel|11|5|8|5|Normal|
+|3-4|Chintala|15|9|4|12|Beast|
+|3-4|Pumphantasm|23|16|10|25|Ghost/Floating|
+|3-4|Armordillo|20|11|15|15|Beast|
+|4|<span class="lightBlueText">Froggo</span>|23|10|13|18|Normal|
+
+</div>
 
 ### Mountain Village
 
@@ -169,19 +241,35 @@ Village with an item shop and blacksmith - If you don't have a lot of Gitan, pri
 
 Ninjas who occasionally dodge normal attacks appear, and they all hit pretty hard without a shield.<br/>Don't neglect the basics like stepping in place to lure enemies closer to get the first hit in.
 
-<p><span class="ninjaTree">Tree Ninja D</span> (25 HP, 14 atk, 10 def) can send a log flying at you, dealing 5 damage + knockback.<br/>They also occasionally warp to a different spot on the current floor when they receive damage.</p>
+<p><span class="ninjaTree">Tree Ninja D</span> (5-7F) sends a log flying at you, dealing 5 damage + 10 tiles of knockback.<br/>They also occasionally warp to a different spot on the current floor when they receive damage.</p>
 
-<p><span class="ninjaEarth">Earth Ninja D</span> (38 HP, 11 atk, 20 def) can blast sand to occasionally inflict Blind status.<br/>They can also create and hide inside sand pillars, and are much sturdier than other ninjas.</p>
+<p><span class="ninjaFire">Fire Ninja D</span> (5-8F) shoots a flame when adjacent, dealing 5 damage and grilling onigiri not in pots.<br/>They also walk toward and burn staves, scrolls, grass, and onigiri items that are on the ground.<br/>Grilled Onigiri replenishes 75 Fullness and restores 40 HP, so it's nice to grill Rotten Onigiri or Onigiri.</p>
 
-<p><span class="ninjaFire">Fire Ninja D</span> (28 HP, 18 atk, 5 def) burns staves, scrolls, grass, and onigiri items that are on the ground.<br/>Grilled Onigiri was buffed to replenish 75 fullness, so have them grill onigiri if you want.</p>
+<p><span class="ninjaEarth">Earth Ninja D</span> (5-9F) blasts sand when adjacent, dealing 5 damage + occasionally inflicting Blind status.<br/>Blind status (player side) blacks out the screen and makes you unable to see your surroundings (10 turns).<br/>They can also create and hide inside sand pillars, and are much sturdier than other ninjas.</p>
 
-<p><span class="ninjaWater">Water Ninja D</span> (24 HP, 15 atk, 9 def) can shoot water from a distance of up to 3 tiles away.<br/>This reduces weapon or shield upgrade value by 1, makes food rot, or turns scrolls into Wet Scrolls.</p>
+<p><span class="ninjaWater">Water Ninja D</span> (7-9F) shoots water that deals 5 damage from up to 3 tiles away in a straight line.<br/>This also lowers weapon or shield upgrade value by 1, makes food rot, or turns scrolls into Wet Scrolls.<br/>Water Ninjas never use their special attack when adjacent.</p>
 
-<p><span class="ninjaMetal">Metal Ninja D</span> (27 HP, 13 atk, 11 def) can throw Gitan bags to attack from a distance.</p>
+<p><span class="ninjaMetal">Metal Ninja D</span> (7-9F) throws Gitan which deals 8~14 damage from up to 10 tiles away in a straight line.<br/>Metal Ninjas never use their special attack when adjacent.</p>
 
-The other major threat is Hoppin' Hitter (32 HP, 22 atk, 15 def) who appears between 6-9F.<br/>It has higher attack than any ninja, and either reflects or nullifies projectiles and staff magic.<br/>Dragon Grass is still effective, but otherwise you'll likely need to rely on scrolls.
+If you have enough food, linger and hunt Ninja family monsters on 5F until you reach Lv10,<br/>since Lv10 is the 1st threshold where HP regen speed increases (1 HP/Turn → 2 HP/Turn).<br/>Otherwise, you might struggle against Hoppin' Hitter (6-9F) which hits harder than any ninja,<br/>and also has a special ability that either reflects or nullifies projectiles and staff magic.<br/>You'll likely need to rely on Dragon Grass or scrolls if the situation gets bad.
 
-Mid Chintala (45 HP, 23 atk, 10 def) tends to get overshadowed a bit since it lacks a special ability,<br/>but it has high HP and similar attack power to Hoppin' Hitter, so don't underestimate it.
+Mid Chintala (8-10F) tends to get overshadowed a bit since it lacks a special ability,<br/>but it has high HP and similar attack power to Hoppin' Hitter, so don't underestimate it.
+
+#### Monster Stats (5-9F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|5-7|Tree Ninja D|25|14|10|27|Normal|
+|5-8|Fire Ninja D|28|18|5|30|Normal|
+|5-9|Earth Ninja D|38|11|20|30|Normal|
+|6-9|Hoppin' Hitter|32|22|15|34|Normal|
+|7-9|Metal Ninja D|27|13|11|35|Normal|
+|7-9|Water Ninja D|24|15|9|31|Normal|
+|8-10|Mid Chintala|45|23|10|27|Beast|
+
+</div>
 
 ### Small Harbor
 
@@ -191,6 +279,8 @@ Mid Chintala (45 HP, 23 atk, 10 def) tends to get overshadowed a bit since it la
 
 Village featuring an inn and a daily item shop that stocks a certain category each time you visit the area.<br/>To avoid confusion, the shop's stock of items doesn't change even if you change your Switch's clock.<br/>Bracelets and pots are sold in an unidentified state.
 
+#### Side Quest (Synthesis Pot & Mixer Unlock)
+
 The Synthesis unlock side quest begins in this village, so be sure to visit the docks.
 
 ### Underwater Passage (10-12F)
@@ -199,15 +289,31 @@ The Synthesis unlock side quest begins in this village, so be sure to visit the 
   <img src="../images/areas/serpentcoil/area_4.jpg"/><img src="../images/areas/serpentcoil/area_5.jpg"/>
 </div>
 
-Crossbowboy (55 HP, 20 atk, 20 def) can be used to collect Iron Arrows if there's a room with pillars.<br/>Alternatively, maneuver the Crossbowboy so that a Bored Kappa is between Shiren and the Crossbowboy,<br/>and have the Crossbowboy shoot arrows at the Bored Kappa to collect Iron Arrows instead.
+Crossbowboy (10-12F) can be used to collect Iron Arrows if there's a room with pillars.<br/>Alternatively, maneuver the Crossbowboy so that a Bored Kappa is between Shiren and the Crossbowboy,<br/>then have the Crossbowboy shoot arrows at the Bored Kappa to collect Iron Arrows instead.
 
-Masked Samurai (47 HP, 18 atk, 18 def) revives as Ghost Samurai shortly after being defeated.<br/>Ghost Samurai has 4 HP but only takes 1 damage from attacks that don't deal fixed damage.<br/>If left alone, it'll possess a different monster and level them up, which can become quite a problem.<br/>The easiest way to deal with them is to step in place until they spawn, then throw a rock to one-shot them.
+Masked Samurai (10-12F) revives as Ghost Samurai within 4\~9 turns after being defeated.<br/>Ghost Samurai has 4 HP but only takes 1 damage from attacks that don't deal fixed damage.<br/>If left alone, it'll possess a different monster and level them up, which can become quite a problem.<br/>The easiest way to deal with them is to step in place until they spawn, then throw a rock to one-shot them.
 
-Mudkin (70 HP, 5 atk, 9 def) can make equipment rust when adjacent, so unequip your weapon and shield.<br/>They don't use normal attacks, so they're a good target to intentionally level up via Ghost Samurai for exp.<br/>However, be warned that Mudkin can multiply when attacked, so it's best to hunt high level Mudkin<br/>while you're standing on the stairs in case the situation gets out of control.
+Mudkin (11-14F) can make equipment rust when adjacent, so unequip your weapon and shield.<br/>They don't use normal attacks, so they're a good target to intentionally level up via Ghost Samurai for exp.<br/>However, be warned that Mudkin can multiply when attacked, so it's best to hunt high level Mudkin<br/>while you're standing on the stairs in case the situation gets out of control.
 
-Fresh Octopling (60 HP, 19 atk, 14 def) gains attack power when the target it follows gets slain.<br/>The attack boosts can quickly snowball, so try to defeat Fresh Octoplings before other monsters.
+Fresh Octopling (10-13F) gains an attack power boost when the target it's following gets slain.<br/>The attack boosts can quickly snowball, so try to defeat Fresh Octoplings before other monsters.
 
-Pillars in rooms can be destroyed by normal attacks, and often have an item, monster, or trap hidden inside.<br/>Mapping Scroll, Monster-find Bracelet, or Item-find Braceler lets you safely check what they contain.
+Pillars in rooms can be destroyed by normal attacks, and often have an item, monster, or trap hidden inside.<br/>Mapping Scroll, Monster-find Bracelet, or Item-find Bracelet lets you safely check what they contain.
+
+#### Monster Stats (10-12F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|8-10|Mid Chintala|45|23|10|27|Beast|
+|10-11|<span class="lightBlueText">Bowboy</span>|45|17|18|60|Normal|
+|10-12|<span class="lightBlueText">Crossbowboy</span>|55|20|20|80|Normal|
+|10-12|Bored Kappa|50|18|11|48|Aquatic|
+|10-12|Masked Samurai|47|18|18|48|Normal|
+|10-13|Fresh Octopling|60|19|14|55|Aquatic|
+|11-14|Mudkin|70|5|9|53|Draining/Aquatic|
+
+</div>
 
 ### Underwater Training Ground
 
@@ -223,11 +329,26 @@ Village that only has a blacksmith in terms of facilities.
   <img src="../images/areas/serpentcoil/area_6.jpg"/>
 </div>
 
-13F (always) and 15F (random) feature Behemoth Monsters, which is a new mechanic in Shiren 6.<br/>Possible Behemoth Monsters here include Mamel, Bowboy, Pop Tank, Explochin, and Schubell.<br/>They all have slow action speed but have incredibly high attack power - expect to collapse if you get hit.<br/>1 Rock or Porky's Rock is enough to one-shot them from any direction, as rocks arc over their barrier.<br/>Otherwise, Silver Arrows can also pierce through their barrier, but most other attacks get nullified.<br/>There's nothing to be gained by defeating them, so it's best to go around them for safety.
+13F (always) and 15F (random chance) feature Behemoth Gates - a new mechanic in Shiren 6.<br/>Possible Behemoth Monsters here include Mamel, Bowboy, Pop Tank, Explochin, and Schubell.<br/>They all have slow action speed but have incredibly high attack power - expect to collapse if you get hit.<br/>1 Rock or Porky's Rock is enough to one-shot them from any direction, as rocks arc over their barrier.<br/>Otherwise, Silver Arrows can also pierce through their barrier, but most other attacks get nullified.<br/>There's nothing to be gained by defeating them, so it's best to go around them for safety.
 
-The Behemoth Gate vanishes and leaves behind an item after you've entered every room on the floor.<br/>The item left behind is often pretty decent in quality (Blank Scroll, Rejuvenation Pot, etc.).<br/>Simply reading a Mapping Scroll won't make the Behemoth Gate vanish.
+The Behemoth Gate vanishes and leaves behind an item after you've entered every room on the floor.<br/>The item left behind is often decent in quality (Blank Scroll, Sumo Onigiri, Rejuvenation Pot, etc.).<br/>Reading a Mapping Scroll won't make the Behemoth Gate vanish, but a Wall-less Scroll works.
 
-For regular enemies, Metalhead (66 HP, 30 atk, 19 def) and Tiger Thrower (68 HP, 26 atk, 22 def) can be tricky.<br/>Metalhead attacks 2 tiles ahead (cuts corners), and Tiger Thrower throws beings within a 5 tile radius.
+For regular enemies, Metalhead (13-15F) and Tiger Thrower (13-15F) can be somewhat tricky.<br/>Metalhead attacks 2 tiles ahead (cuts corners), and Tiger Thrower throws creatures within a 5 tile radius.
+
+#### Monster Stats (13-15F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|10-13|Fresh Octopling|60|19|14|55|Aquatic|
+|11-14|Mudkin|70|5|9|53|Draining/Aquatic|
+|13-14|Lt. Spearfish|60|24|17|55|Aquatic|
+|13-15|Metalhead|66|30|19|61|Cyclops|
+|13-15|Floor Dragon|55|25|20|80|Dragon|
+|13-15|Tiger Thrower|68|26|22|77|Beast|
+
+</div>
 
 ### Kibanuma Marsh (16-18F)
 
@@ -235,21 +356,46 @@ For regular enemies, Metalhead (66 HP, 30 atk, 19 def) and Tiger Thrower (68 HP,
   <img src="../images/areas/serpentcoil/area_7.jpg"/><img src="../images/areas/serpentcoil/area_8.jpg"/>
 </div>
 
-Reclusive monks, the other main new monster family alongside ninjas, make their first appearance.<br/>Each type of mask is counted as a separate family, and their special attacks vary depending on the mask.
+Reclusive monks, the other main new monster family alongside ninjas, make their first appearance.<br/>Each type of mask is counted as a separate family, and their special attacks vary depending on the mask.<br/>Monk family special attacks never target themselves or other monk family monsters.
 
-4 of the 5 types of monks appear in this dungeon:
+4 out of 5 types of monks appear in this dungeon:
 
-<p><span class="monkOkina">Okina Monk D</span> (70 HP, 25 atk, 25 def) can warp a monster from anywhere on the floor closer to Shiren.<br/>This special attack can occur not only in rooms, but even when Shiren is walking in a hallway.</p>
+<p><span class="monkOkina">Okina Monk D</span> (16-18F) warps a monster from anywhere on the floor closer to Shiren.<br/>This monster-warping effect occurs not only in rooms, but even when Shiren is walking in a hallway.</p>
 
-<p><span class="monkOkame">Okame Monk D</span> (60 HP, 19 atk, 23 def) can cure the bad status conditions of a monster on the floor.</p>
+<p><span class="monkOkame">Okame Monk D</span> (16-19F) cures bad status conditions that a monster is afflicted with from anywhere on the floor.</p>
 
-<p><span class="monkHannya">Hannya Monk D</span> (66 HP, 37 atk, 25 def) can inflict a monster with a special type of Berserk status.<br/>The monster with this Berserk status won't attack the Hannya Monk who inflicted the status.</p>
+<p><span class="monkHannya">Hannya Monk D</span> (18-19F) inflicts a monster with Monk's Berserk status, making it attack any creature.<br/>However, the monster with this special Berserk status won't attack any monk family monsters.<br/>The danger in this is due to the Berserk monster leveling up when it slays another creature.</p>
 
-<p><span class="monkTengu">Tengu Monk D</span> (80 HP, 24 atk, 20 def) can increase the action speed of a monster by 1 stage.<br/>This effect can stack up to Swift 2 action speed, where monsters get 2 attacks per turn.</p>
+<p><span class="monkTengu">Tengu Monk D</span> (18-19F) boosts action speed of a monster by 1 stage (Slow → Normal → Swift 1 → Swift 2).<br/><u>Slow</u> = Monster gets 1 action every 2 turns. <u>Normal</u> = Monster gets 1 action per turn.<br/><u>Swift 1</u> = Monster gets 2 actions per turn, but can only ever attack 1 time per turn.<br/><u>Swift 2</u> = Monster gets 2 actions per turn, which can both be attacks.</p>
 
-Otherwise, brawlers like Master Hen (70 HP, 33 atk, 21 def) and Minotaur (70 HP, 31 atk, 20 def) also appear,<br/>along with trickier monsters like Ghost Radish (40 HP, 18 atk, 15 def) and Pop Tank (90 HP, 20 atk, 24 def).<br/>Ghost Radish throws Poison Grass 2 tiles ahead, which lowers strength and slows action speed for a while.<br/>Pop Tank can shoot cannonballs from a distance which deal 20 damage in a 1 tile radius.
+Otherwise, brawler monsters like Master Hen (16-18F) and Minotaur (16-18F) also appear,<br/>along with slightly trickier ranged attackers like Ghost Radish (16-17F) and Pop Tank (16-18F).<br/>Master Hen grants 400 exp if slain before reverting to Hen, and Minotaur can drop an Axe of the Minotaur.<br/>Ghost Radish throws Poison Grass 2 tiles ahead, which lowers strength and slows action speed for a while.<br/>Pop Tank shoots a cannonball from a distance when lined up, which deals 20 damage in a 1 tile radius.
 
-Thiefwalrus (65 HP, 25 atk, 23 def) always drops an item when defeated, so hunt them if possible.<br/>However, they can be tricky to catch if they steal one of your items on a floor with water,<br/>so unless you have a Walrus Stopper, it might be more trouble than it's worth.
+If you have enough food, linger and hunt Master Hens to reach Lv20 before proceeding past 18F,<br/>since Lv20 is the 2nd threshold where HP regen speed increases (2 HP/Turn → 3 HP/Turn).
+
+Thiefwalrus (16-19F) always drops a new item when slain prior to stealing, so hunt them if possible.<br/>Sealing Staff stops them from stealing, but beware of their normal attacks backed by 25 attack power.<br/>They can be tricky to catch if they steal one of your items on a floor that contains lots of water tiles,<br/>so unless you have arrows or a Walrus Stopper (shield), it might be more trouble than it's worth.
+
+#### Monster Stats (16-18F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|16-17|<span class="lightBlueText">Egg Thing</span>|5|2|14|7|Cyclops|
+|16-17|Ghost Radish|40|18|15|49|Ghost|
+|16-17|Hat Prankster|70|15|6|50|Cyclops|
+|16-18|Minotaur|70|31|20|90|Beast|
+|16-18|Master Hen|70|33|21|400|Beast|
+|16-18|Pop Tank|90|20|24|100|Metal/Exploding|
+|16-18|Okina Monk D|70|25|25|80|Normal|
+|16-19|Okame Monk D|60|19|23|75|Normal|
+|16-19|<span class="lightBlueText">Thiefwalrus</span>|65|25|23|75|Aquatic|
+|17-20|Zapdon|80|43|35|105|Metal|
+|18-19|Tengu Monk D|80|24|20|85|Normal|
+|18-19|Hannya Monk D|66|37|25|80|Normal|
+|18-20|Flamepuff|50|25|20|175|Dragon/Floating|
+|18-21|N'dubba|32|16|8|16|Metal|
+
+</div>
 
 ### Hot Spring Cabin
 
@@ -265,15 +411,39 @@ Fully restore HP and strength for free, and organize your items inside the wareh
   <img src="../images/areas/serpentcoil/area_10.jpg"/>
 </div>
 
-This is around the point where you usually want to start rushing to the stairs.<br/>However, if you don't have enough items for the boss fight, you might want to take things slower.
+This is around the point where you want to start rushing to the stairs instead of fully exploring.<br/>However, if you don't have enough items for the boss fight, you might want to take things a bit slower.<br/>The monster spawn rate speeds up from 1 monster/30 Turns → 1 monster/25 Turns starting on 22F.
 
-Elemental ninjas return, but this time they're Lv2 instead of Lv1.<br/>Their special attacks are mostly the same except for dealing slightly more damage.<br/>Fire Ninjas mean there's little point in exploring the floor since most items will be burned up.
+Lv2 Ninjas have the same special attacks as Lv1 Ninjas, aside from dealing slightly more damage.<br/>Fire Ninjas mean there's little point in exploring the floor since most consumable items get destroyed.<br/>Attack power for Lv2 Ninjas: Fire (45) &gt; Metal (42) &gt; Water (37) = Tree (37) &gt; Earth (21).
 
-Fire Ninja C (75 HP, 45 atk, 21 def) and Metal Ninja C (85 HP, 42 atk, 29 def) both hit very hard,<br/>Water Ninja C (80 HP, 37 atk, 26 def) and Tree Ninja C (70 HP, 37 atk, 24 def) are a bit milder,<br/>and Earth Ninja C (85 HP, 21 atk, 28 def) is the weakest again in terms of attack power.
+Other threats include Blazeous (21-23F), Super Gazer (22-24F), and Skull Wizard (19-21F).<br/>Blazeous only uses normal attacks, but is immune to projectiles that lack piercing properties.<br/>Super Gazer hypnotizes Shiren when adjacent, forcing him to either randomly attack or use an item.<br/>Skull Wizard's magic can inflict Confused status, warp you to the stairs and inflict Paralyzed status,<br/>deal 20 damage, or morph you into a monster (open the menu → select <span class="blueText">End Morph</span> to revert back).
 
-Other threats include Super Gazer (66 HP, 30 atk, 26 def) and Skull Wizard (88 HP, 35 atk, 24 def).<br/>Super Gazer can hypnotize Shiren when adjacent, making him perform a random action.<br/>Skull Wizard's magic can inflict Confused status, warp you to the stairs and inflict Paralyzed status,<br/>deal 20 damage, or turn you into a monster.
+Lastly, also beware of Explochin (20-22F), as it explodes when its HP gets low.<br/>The explosion reduces Shiren's HP to 1, so use rocks to adjust how much damage you deal as needed.<br/>It stops moving after 60 damage, and explodes when damage received reaches 96+ damage.
 
-Lastly, also beware of Explochin (120 HP, 25 atk, 22 def), as it can explode when its HP gets low.<br/>The explosion reduces Shiren's HP to 1, so use rocks to adjust how much damage you deal as needed.<br/>It stops moving at 50% HP, and explodes when total damage received exceeds 95 damage.
+#### Monster Stats (19-23F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|16-19|Okame Monk D|60|19|23|75|Normal|
+|16-19|<span class="lightBlueText">Thiefwalrus</span>|65|25|23|75|Aquatic|
+|17-20|Zapdon|80|43|35|105|Metal|
+|18-19|Tengu Monk D|80|24|20|85|Normal|
+|18-19|Hannya Monk D|66|37|25|80|Normal|
+|18-20|Flamepuff|50|25|20|175|Dragon/Floating|
+|18-21|N'dubba|32|16|8|16|Metal|
+|19-21|Skull Wizard|88|35|24|250|Ghost|
+|20-21|Tree Ninja C|70|37|24|88|Normal|
+|20-21|Earth Ninja C|85|21|28|90|Normal|
+|20-22|Explochin|120|25|22|55|Exploding/Cyclops/Aquatic|
+|20-23|Fire Ninja C|75|45|21|100|Normal|
+|21-23|Blazeous|92|36|24|150|Normal|
+|22-23|Metal Ninja C|85|42|29|93|Normal|
+|22-23|Water Ninja C|80|37|26|95|Normal|
+|22-23|Skull Mage|77|31|21|210|Ghost|
+|22-24|Super Gazer|66|30|26|222|Cyclops|
+
+</div>
 
 ### Mount Jatou (24-26F)
 
@@ -281,13 +451,33 @@ Lastly, also beware of Explochin (120 HP, 25 atk, 22 def), as it can explode whe
   <img src="../images/areas/serpentcoil/area_11.jpg"/><img src="../images/areas/serpentcoil/area_12.jpg"/>
 </div>
 
-Continue rushing stairs instead of exploring the floor for items.
+Continue rushing to the stairs instead of exploring the floor for items.
 
-Porko (65 HP, 36 atk, 18 def) throws Porky's Rocks that deal 20 damage within a 5 tile radius.<br/>These monsters throw rocks even when Shiren isn't in their view, so they can be a major problem.<br/>It's usually best to go towards the Porko and defeat it instead of trying to run away from the rocks.<br/>Pesky Kappas (75 HP, 29 atk, 22 def) throw items on the ground at you, so there's little point in exploring.
+Porko (24-27F) throws Porky's Rocks that deal 20 damage within a 5 tile radius.<br/>These monsters throw rocks even when Shiren isn't in their view, so they can be a major problem.<br/>It's usually best to go towards the Porko and defeat it instead of trying to run away from the rocks.<br/>Pesky Kappa (24-27F) throws items on the ground at you, so there's less incentive to explore.
 
-Daze Radish (80 HP, 37 atk, 27 def) throws Confusion Grass within a 2 tile radius.<br/>If you already have Confused status, it throws Poison Grass instead - Focusing Bracelet keeps you safe.
+Daze Radish (26-29F) throws Confusion Grass within a 2 tile radius.<br/>If you already have Confused status, it throws Poison Grass instead - Focusing Bracelet keeps you safe.<br/>Greenwalrus (25-29F)'s theft can be annoying when you don't have a Walrus Stopper (shield).<br/>If it's not adjacent, shoot an arrow at a wall so that it doesn't steal an inventory item.
 
-Mixers (78 HP, 39 atk, 29 def) will only spawn if they've been unlocked through a side quest.<br/>The power boost they gain from eating items is significant, so always use an item to disable them.<br/>In this game, Mixers also get cured of bad status conditions each time they eat an item,<br/>so inflict the status condition <span class="redText">after</span> you've thrown the items you want to synthesize.
+Mixers (24-29F) will only spawn if they've been unlocked through a side quest.<br/>The power boost they gain from eating items is significant, so always use an item to disable them.<br/>In this game, Mixers also get cured of bad status conditions each time they eat an item,<br/>so inflict the status condition <span class="redText">after</span> you've thrown the items you want to synthesize.
+
+#### Monster Stats (24-26F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|22-24|Super Gazer|66|30|26|222|Cyclops|
+|24-25|Dark Owl|90|16|25|120|Normal|
+|24-25|Capt. Spearfish|100|39|30|410|Aquatic|
+|24-25|Famed Octopling|99|25|30|420|Aquatic|
+|24-27|Porko|65|36|18|840|Beast|
+|24-27|Pesky Kappa|75|29|22|330|Aquatic|
+|24-28|N'dulu|70|40|31|230|Metal|
+|24-29|<span class="blueText">Mixer</span>|78|39|29|280|Normal|
+|25-28|Dartingfrog|75|40|28|300|Aquatic|
+|25-29|<span class="lightBlueText">Greenwalrus</span>|88|30|27|240|Aquatic|
+|26-29|Daze Radish|80|37|27|400|Ghost|
+
+</div>
 
 ### Icewall Village
 
@@ -303,17 +493,38 @@ Village featuring an item shop and an inn.
   <img src="../images/areas/serpentcoil/area_13.jpg"/><img src="../images/areas/serpentcoil/area_14.jpg"/>
 </div>
 
-Again, rush stairs instead of trying to explore the floor for items.
+Again, rush to the stairs instead of trying to explore the floor for items.
 
-Dragon (120 HP, 45 atk, 40 def) and Sky Dragon (140 HP, 55 atk, 50 def) make an appearance.<br/>Dragons breathe 20 damage fire in a straight line, and Sky Dragons from anywhere in the room.<br/>It's hopeless to trade hits unless you're using a Dragonkiller + Dragon Shield equipment combination.<br/>Instead, use items like Paralyzing Staff or Sluggish Staff to weaken them and avoid taking damage.
+Dragon (27-31F) and Sky Dragon (28-31F) make an appearance.<br/>Dragons breathe 20 damage fire in a straight line, and Sky Dragons from anywhere in the room.<br/>It's hopeless to trade hits unless you're using a Dragonkiller + Dragon Shield equipment combination.<br/>Instead, use items like Paralyzing Staff or Sluggish Staff to weaken them and avoid taking damage.
 
-Vile Scorpion (108 HP, 45 atk, 33 def) can lower Shiren's strength by 2 per special attack use.<br/>Similar to Dragons, use items to deal with it instead of trying to trade normal attacks.
-
-Beware of Pumplich (100 HP, 50 atk, 30 def) on 30F, as they can pass through walls.
+Vile Scorpion (29-31F) can lower Shiren's Current Strength by 2 per special attack use.<br/>Similar to Dragons, use items to deal with them instead of trying to trade normal attacks.<br/>Also beware of Pumplich (30-31F), as they have high attack power and can pass through walls.
 
 If you plan on throwing Gitan against the boss, be sure to break any Cashing Pots on 30F.<br/>You'll need a total of 3885 Gitan worth of Gitan bags to use as projectiles to defeat it in this manner.
 
-### Boss
+#### Monster Stats (27-30F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|24-27|Porko|65|36|18|840|Beast|
+|24-27|Pesky Kappa|75|29|22|330|Aquatic|
+|24-28|N'dulu|70|40|31|230|Metal|
+|24-29|<span class="blueText">Mixer</span>|78|39|29|280|Normal|
+|25-28|Dartingfrog|75|40|28|300|Aquatic|
+|25-29|<span class="lightBlueText">Greenwalrus</span>|88|30|27|240|Aquatic|
+|26-29|Daze Radish|80|37|27|400|Ghost|
+|27-31|Dragon|120|45|40|1000|Dragon|
+|28-31|Sky Dragon|140|55|50|1600|Dragon|
+|29-30|Baby Tank|85|40|30|450|Normal|
+|29-31|Vile Scorpion|108|45|33|500|Draining|
+|30-31|Pumplich|100|50|30|800|Ghost/Floating|
+|30-31|Polygon Shaka|70|34|33|360|Draining|
+|30-31|Hoppin' Slugger|72|39|31|400|Normal|
+
+</div>
+
+### Boss (31F)
 
 <div class="dungeonPageImage">
   <img src="../images/areas/other/jakaku.jpg"/>
@@ -333,8 +544,8 @@ Special attacks:
 
 Other notes:
 
-- Expect to deal around 30\~40 damage with direct attacks, or 20\~30 damage using arrows.
-    - This calculates out to roughly 20\~26 direct attacks to defeat it.
+- Expect to deal around 30\~40 damage with normal attacks, or 20\~30 damage using arrows.
+    - This calculates out to roughly 20\~26 normal attacks to defeat it.
 - The fight begins with Pumplich, Dragon, Vile Scorpion, and 2 Hoppin' Sluggers on the field.
     - Monsters also continue to spawn as turns elapse, which can include Sky Dragons.
 - Swift Grass, Power-up Grass, and Invincible Grass are fantastic.
@@ -352,6 +563,22 @@ Other notes:
     - Don't throw a pot containing Gitan bags, as the pot's contents won't hit the target.
 - Empathetic Staff can be used to supplement damage if your damage output is low.
 
+#### Monster Stats (31F)
+
+<div class="monsterStats">
+
+|Floor|Monster|HP|Atk|Def|Exp|Type|
+|-|-|-|-|-|-|-|
+|31|<span class="redText">Jakaku</span>|777|50|20|0|Draining|
+|27-31|Dragon|120|45|40|1000|Dragon|
+|28-31|Sky Dragon|140|55|50|1600|Dragon|
+|29-31|Vile Scorpion|108|45|33|500|Draining|
+|30-31|Pumplich|100|50|30|800|Ghost/Floating|
+|30-31|Polygon Shaka|70|34|33|360|Draining|
+|30-31|Hoppin' Slugger|72|39|31|400|Normal|
+
+</div>
+
 # Monsters
 
 <button id="hideMonTblImgBtn" onClick={()=>{var mon_imgs = document.querySelectorAll('#monsterTable img');mon_imgs.forEach(e => e.classList.toggle('hidden'));}}>Toggle Monster Images</button>
@@ -360,9 +587,9 @@ See [Monsters](/system/monsters) for individual monster details.
 
 - F - <span class="highlightFog">Dark hallways</span>, <span class="highlightOrange2">Boss Floor</span>
 - S - <span class="highlightShop">Shop is possible</span>
-- H - <span class="highlightMH">Monster House is possible</span>
-- G - <span class="highlightGold">Golden Egg Thing is possible</span>
-- B - <span class="highlightBehemoth">Behemoth Monsters are possible</span>
+- M - <span class="highlightMH">Monster House is possible</span>
+- W - <span class="highlightGold">Wishing Shrine is possible</span>
+- B - <span class="highlightBehemoth">Behemoth Gate is possible</span>
 
 Monster Colors = <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
 
@@ -371,8 +598,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <th>F</th>
       <th>S</th>
-      <th>H</th>
-      <th>G</th>
+      <th>M</th>
+      <th>W</th>
       <th colspan="5">Monsters</th>
       <th>B</th>
     </tr>
@@ -1070,18 +1297,28 @@ See [Monsters](/system/monsters) for individual monster details.
 
 # Items
 
-- F = Floor
-- S = Shop
-- P = Peddler
-- M = Monster drop
-- B = Buried
-- H = Thiefwalrus
-- I = Island
-- T = Transmutation Pot
-- U = Surprise Pot
-- W = Tunnel of Wishes
+<p><span class="orangeText">※ This section is currently incomplete.</span></p>
 
-#### Weapon
+<h4 id="item-table-key" class="heading4Blue"> Item Table Key</h4>
+
+<div class="itemTableKey">
+
+|ID|Explanation|
+|-|-|
+|F|Floor|
+|S|Shop|
+|P|Peddler|
+|M|Monster drop|
+|B|Buried|
+|H|Thiefwalrus|
+|I|Island|
+|T|Transmutation Pot|
+|U|Surprise Pot|
+|W|Tunnel of Wishes|
+
+</div>
+
+<h4 id="weapon" class="heading4Blue"><img src="../images/weapon/3.png"/> Weapon</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -1596,7 +1833,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Shield
+<h4 id="shield" class="heading4Blue"><img src="../images/shield/3.png"/> Shield</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -2046,7 +2283,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Bracelet
+<h4 id="bracelet" class="heading4Blue"><img src="../images/other/bracelet.png"/> Bracelet</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -2548,7 +2785,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Projectile
+<h4 id="projectile" class="heading4Blue"><img src="../images/other/arrow.png"/> <img src="../images/other/rock.png"/> Projectile</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -2660,7 +2897,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Food
+<h4 id="food-(items)" class="heading4Blue"><img src="../images/other/food.png"/> Food</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -2811,7 +3048,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Grass
+<h4 id="grass" class="heading4Blue"><img src="../images/other/grass.png"/> Grass</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -3183,7 +3420,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Scroll
+<h4 id="scroll" class="heading4Blue"><img src="../images/other/scroll.png"/> Scroll</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -3685,7 +3922,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Staff
+<h4 id="staff" class="heading4Blue"><img src="../images/other/staff.png"/> Staff</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -3966,7 +4203,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Pot
+<h4 id="pot" class="heading4Blue"><img src="../images/other/pot.png"/> Pot</h4>
 
 <table class="dungeonItemTable">
   <tr>
@@ -4260,7 +4497,7 @@ See [Monsters](/system/monsters) for individual monster details.
   </tr>
 </table>
 
-#### Incense
+<h4 id="incense" class="heading4Blue"><img src="../images/other/incense.png"/> Incense</h4>
 
 <table class="dungeonItemTable">
   <tr>

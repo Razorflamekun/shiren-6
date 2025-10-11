@@ -806,6 +806,9 @@ export const baseStyles = css`
     width: 20px !important;
     height: 20px !important;
   }
+  .runeTable2 th {
+    text-align: center;
+  }
   .runeTable2 td {
     text-align: center;
   }
@@ -862,6 +865,75 @@ export const baseStyles = css`
   }
   .runeTable4 td:nth-of-type(3), {
     text-align: left;
+  }
+  .peachBunTable img {
+    position: relative !important;
+    width: 18px !important;
+    height: 18px !important;
+    border-radius: 5px;
+  }
+  .peachBunTable td {
+    text-align: center;
+  }
+  .peachBunTable tr:nth-of-type(1) th {
+    color: #3b454e;
+    background-color: #ffffed;
+  }
+  .peachBunTable td:nth-of-type(2) {
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .peachBunTable td:nth-of-type(3), {
+    text-align: left;
+  }
+  .itemTableKey td:nth-of-type(1) {
+    text-align: center;
+    background-color: #f7f7f7;
+  }
+  .abilityTable td:nth-of-type(1) {
+    text-align: center;
+    background-color: #f7f7f7;
+  }
+  .abilityTable td:nth-of-type(2) {
+    text-align: center;
+  }
+  .effectsTable td:nth-of-type(1) {
+    text-align: center;
+    background-color: #f7f7f7;
+  }
+  .monsterStats th {
+    text-align: center;
+  }
+  .monsterStats th:nth-of-type(2),
+  .monsterStats th:nth-of-type(7) {
+    text-align: left;
+  }
+  .monsterStats td {
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  .monsterStats td:nth-of-type(2) {
+    background-color: #f7f7f7;
+  }
+  .monsterStats td:nth-of-type(2),
+  .monsterStats td:nth-of-type(7) {
+    text-align: left;
+  }
+  .monsterStats td:nth-of-type(3) {
+    color: #1d751d;
+  }
+  .monsterStats td:nth-of-type(4) {
+    color: #a40000;
+  }
+  .monsterStats td:nth-of-type(5) {
+    color: #000097;
+  }
+  .sacredTreeStats th {
+    background-color: #fdd;
+  }
+  .behemothStats th {
+    background-color: #ede5ff;
   }
   .stoneTable th {
     background-color: #f7f7f7;
@@ -1804,6 +1876,9 @@ export const baseStyles = css`
   .highlightShop {
     background-color: #a8ffc6;
   }
+  .highlightFixedShop {
+    background-color: #00d048;
+  }
   .highlightMH {
     background-color: #edcbff;
   }
@@ -1941,7 +2016,7 @@ export const baseStyles = css`
     color: #8a7500;
   }
   .orangeText {
-    color: #f9a100;
+    color: #ea9700;
   }
   .orangeText2 {
     color: #fd8200;
@@ -1955,8 +2030,11 @@ export const baseStyles = css`
   .darkblueText {
     color: #0000cd;
   }
-  .lightblueText {
+  .lightBlueText {
     color: #1b9fac;
+  }
+  .oceanBlueText {
+    color: #007bc4;
   }
   .redText {
     color: #ff3c3c;
@@ -1970,6 +2048,9 @@ export const baseStyles = css`
   .pinkText {
     color: #ff44bf;
   }
+  .pinkText2 {
+    color: #ffb6f6;
+  }
   .cyanText {
     color: #00a2b3;
   }
@@ -1978,6 +2059,15 @@ export const baseStyles = css`
   }
   .purpleText2 {
     color: #be06ff;
+  }
+  .purpleText3 {
+    color: #c031d5;
+  }
+  .peachText {
+    color: #a652b3;
+  }
+  .mixer {
+    background-color: #eef4ff;
   }
   .farming {
     background-color: #f4ffed;
@@ -2387,7 +2477,33 @@ export const baseStyles = css`
     padding-left: 10px;
   }
 
-  .heading3First {
+  .heading3Yellow {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 16px;
+    border-left: 10px solid #e8df6b;
+    border-right: 1px solid #e8df6b;
+    border-bottom: 2px solid #e8df6b;
+    border-top: 1px solid #e8df6b;
+    padding-left: 10px;
+  }
+
+  .heading3Green {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 16px;
+    border-left: 10px solid #ace398;
+    border-right: 1px solid #ace398;
+    border-bottom: 2px solid #ace398;
+    border-top: 1px solid #ace398;
+    padding-left: 10px;
+  }
+
+  .heading3Blue {
     font-size: 20px;
     font-weight: 600;
     line-height: 1.5;
@@ -2400,7 +2516,20 @@ export const baseStyles = css`
     padding-left: 10px;
   }
 
-  .heading3Tree {
+  .heading3Purple {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 16px;
+    border-left: 10px solid #d7b6ff;
+    border-right: 1px solid #d7b6ff;
+    border-bottom: 2px solid #d7b6ff;
+    border-top: 1px solid #d7b6ff;
+    padding-left: 10px;
+  }
+
+  .heading3Pink {
     font-size: 20px;
     font-weight: 600;
     line-height: 1.5;
@@ -2413,6 +2542,19 @@ export const baseStyles = css`
     padding-left: 10px;
   }
 
+  .heading3Red {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 16px;
+    border-left: 10px solid #ff9191;
+    border-right: 1px solid #ff9191;
+    border-bottom: 2px solid #ff9191;
+    border-top: 1px solid #ff9191;
+    padding-left: 10px;
+  }
+
   .heading4 {
     font-size: 18px;
     font-weight: 500;
@@ -2421,6 +2563,115 @@ export const baseStyles = css`
     margin-top: 12px;
     border-left: 10px solid #ffbd76;
     padding-left: 6px;
+  }
+
+  .heading4Yellow {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    border-left: 10px solid #e8df6b;
+    padding-left: 6px;
+  }
+
+  .heading4Green {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    border-left: 10px solid #ace398;
+    padding-left: 6px;
+  }
+
+  .heading4Blue {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    border-left: 10px solid #b6cfff;
+    padding-left: 6px;
+  }
+
+  .heading4Purple {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    border-left: 10px solid #d7b6ff;
+    padding-left: 6px;
+  }
+
+  .heading4Pink {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    border-left: 10px solid #ffb6f6;
+    padding-left: 6px;
+  }
+
+  .heading4Red {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    border-left: 10px solid #ff9191;
+    padding-left: 6px;
+  }
+
+  .heading4 img {
+    position: relative !important;
+    border-radius: 3px;
+    width: 30px !important;
+    height: auto;
+  }
+
+  .heading4Blue img {
+    position: relative !important;
+    border-radius: 3px;
+    width: 30px !important;
+    height: auto;
+  }
+
+  .heading4Purple img {
+    position: relative !important;
+    border-radius: 3px;
+    width: 30px !important;
+    height: auto;
+  }
+
+  .heading4Yellow img {
+    position: relative !important;
+    border-radius: 3px;
+    width: 30px !important;
+    height: auto;
+  }
+
+  .heading4Green img {
+    position: relative !important;
+    border-radius: 3px;
+    width: 30px !important;
+    height: auto;
+  }
+
+  .heading4Pink img {
+    position: relative !important;
+    border-radius: 3px;
+    width: 30px !important;
+    height: auto;
+  }
+
+  .heading4Red img {
+    position: relative !important;
+    border-radius: 3px;
+    width: 30px !important;
+    height: auto;
   }
 
   .heading5 {

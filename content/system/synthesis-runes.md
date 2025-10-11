@@ -108,7 +108,7 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td>Critical</td>
     <td>Axe of the Minotaur</td>
     <td class="highlightPink">High</td>
-    <td>Roughly 1/3 chance to land a x1.5 damage critical hit.</td>
+    <td>Roughly 30% chance to land a x1.5 damage critical hit.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/6.png"/></td>
@@ -122,7 +122,7 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td>Swift Strikes</td>
     <td>Swift Sword</td>
     <td class="highlightRed">Top</td>
-    <td>Roughly 25% chance to attack 2 times in a row.<br/>The second hit has 50% attack power.</td>
+    <td>Roughly 25% chance to attack 2 times in a row.<br/>The second hit has 50% damage.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/8.png"/></td>
@@ -199,35 +199,35 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td>Confusing</td>
     <td>Confusion Grass</td>
     <td class="highlightPink">High</td>
-    <td>Roughly 10.5% chance to inflict Confused status.</td>
+    <td>Roughly 9% chance to inflict Confused status.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/19.png"/></td>
     <td>Sedating</td>
     <td>Sedating Grass</td>
     <td class="highlightRed">Top</td>
-    <td>Roughly 10.5% chance to inflict Asleep status.</td>
+    <td>Roughly 9% chance to inflict Asleep status.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/20.png"/></td>
     <td>Sealing</td>
     <td>Sealing Staff</td>
     <td class="highlightBlue">Low</td>
-    <td>Roughly 8.9% chance to inflict Sealed status.</td>
+    <td>Roughly 9% chance to inflict Sealed status.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/21.png"/></td>
     <td>Blinding</td>
     <td>Blinding Grass</td>
     <td class="highlightPink">High</td>
-    <td>Roughly 8.9% chance to inflict Blind status.</td>
+    <td>Roughly 9% chance to inflict Blind status.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/22.png"/></td>
     <td>Paralyzing</td>
     <td>Paralyzing Staff</td>
     <td class="highlightPink">High</td>
-    <td>Roughly 11.3% chance to inflict Paralyzed status.</td>
+    <td>Roughly 9% chance to inflict Paralyzed status.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/23.png"/></td>
@@ -241,14 +241,14 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td>Thunderbolt</td>
     <td>Sacred Item</td>
     <td class="highlightYellow">Mid</td>
-    <td>~24% chance to deal an extra 20 damage to a target.<br/>The damage spreads through adjacent enemies.<br/>Shiren, companions, and NPCs won't receive damage.</td>
+    <td>20~25% chance to deal an extra 20 damage to a target.<br/>The damage spreads through adjacent enemies.<br/>Shiren, companions, and NPCs won't receive damage.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/25.png"/></td>
     <td>Knockback</td>
     <td>Whopping Harisen</td>
     <td class="highlightRed">Top</td>
-    <td>Roughly 53.7% chance to deal 1 tile of knockback.</td>
+    <td>Roughly 50% chance to deal 1 tile of knockback.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/26.png"/></td>
@@ -496,49 +496,49 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td>Shadow Payback</td>
     <td>Sacred Item</td>
     <td class="highlightYellow">Mid</td>
-    <td>Chance to inflict Shadowbound status on attacker.</td>
+    <td>Chance to inflict Shadowbound status on attacker.<br/>Shadowbound status lasts 10 turns.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/4.png"/></td>
     <td>Jitter Payback</td>
     <td>Jitters Scroll</td>
     <td class="highlightRed">Top</td>
-    <td>9.4% chance to inflict Jittery status on attacker.</td>
+    <td>10% chance to inflict Jittery status on attacker.<br/>Jittery status lasts 15 turns.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/5.png"/></td>
     <td>Berserk Payback</td>
     <td>Berserk Seed</td>
     <td class="highlightBlue">Low</td>
-    <td>Chance to inflict Berserk status on attacker.</td>
+    <td>Chance to inflict Berserk status on attacker.<br/>Berserk status lasts 30 turns.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/6.png"/></td>
     <td>Delusion Payback</td>
     <td>Sacred Item</td>
     <td class="highlightRed">Top</td>
-    <td>Chance to inflict Deluded status on attacker.</td>
+    <td>Chance to inflict Deluded status on attacker.<br/>Deluded status is permanent.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/7.png"/></td>
     <td>Onigiri Payback</td>
     <td>Onigiri Scroll</td>
     <td class="highlightRed">Top</td>
-    <td>10.2% chance to inflict Onigiri status on attacker.</td>
+    <td>10% chance to inflict Onigiri status on attacker.<br/>Onigiri status lasts 10 turns.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/8.png"/></td>
     <td>Leap Payback</td>
     <td>Leaping Grass</td>
     <td class="highlightBlue">Low</td>
-    <td>9.9% chance to make the attacker warp elsewhere.</td>
+    <td>10% chance to make the attacker warp elsewhere.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/9.png"/></td>
     <td>Keen</td>
     <td>Watchful Shield</td>
     <td class="highlightRed">Top</td>
-    <td>22.6% chance to dodge enemy normal attacks.</td>
+    <td>Roughly 23% chance to evade enemy normal attacks.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/10.png"/></td>
@@ -601,7 +601,7 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td>Projectileproof</td>
     <td>Kappa's Dish</td>
     <td class="highlightYellow">Mid</td>
-    <td>39.2% chance to evade enemy projectiles.</td>
+    <td>Roughly 39% chance to dodge enemy projectiles.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/shield/19.png"/></td>

@@ -10,64 +10,74 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
 
 # Projectile List
 
+<p><span class="orangeText">※ Attack Power values for arrows are an estimate as a result of player testing.</span></p>
+
 <table id="monsterList" class="pageLinksTable">
   <tr>
-    <th colspan="5">Projectile ~ Notebook Order</th>
+    <th colspan="6">Projectile ~ Notebook Order</th>
   </tr>
   <tr>
     <th>Name</th>
+    <th>Atk</th>
+    <th>Range</th>
     <th>Buy</th>
     <th>Sell</th>
-    <th>Range</th>
     <th>Notes</th>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#wooden-arrow">Wooden Arrow</a></td>
+    <td>2</td>
+    <td>10</td>
     <td>10</td>
     <td>4</td>
-    <td>10</td>
     <td class="leftText">Low attack power.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#iron-arrow">Iron Arrow</a></td>
+    <td>6</td>
+    <td>10</td>
     <td>30</td>
     <td>12</td>
-    <td>10</td>
     <td class="leftText">Higher attack power.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#silver-arrow">Silver Arrow</a></td>
+    <td>2</td>
+    <td>∞</td>
     <td>50</td>
     <td>20</td>
-    <td>∞</td>
     <td class="leftText">Pierces through walls and creatures.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#poison-arrow">Poison Arrow</a></td>
+    <td>1</td>
+    <td>10</td>
     <td>100</td>
     <td>40</td>
-    <td>10</td>
     <td class="leftText">Inflicts Weakened status, lowering the target's attack power.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#truestrike-arrow">Truestrike Arrow</a></td>
+    <td>4</td>
+    <td>10</td>
     <td>120</td>
     <td>48</td>
-    <td>10</td>
     <td class="leftText">Guaranteed to hit the target.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#rock">Rock</a></td>
+    <td>-</td>
+    <td>3</td>
     <td>10</td>
     <td>4</td>
-    <td>3</td>
     <td class="leftText">Arcs toward a target up to 3 tiles ahead.<br/>Deals a fixed 12 damage.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#porky's-rock">Porky's Rock</a></td>
+    <td>-</td>
+    <td>3</td>
     <td>50</td>
     <td>20</td>
-    <td>3</td>
     <td class="leftText">Homes in on a target within 3 forward direction tiles.<br/>Deals a fixed 20 damage.</td>
   </tr>
 </table>
@@ -91,12 +101,14 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Atk</div>
+              <div>2</div>
+              <div>Range</div>
+              <div>10</div>
               <div>Buy</div>
               <div>10</div>
               <div>Sell</div>
               <div>4</div>
-              <div>Range</div>
-              <div>10</div>
             </div>
             <div class="monster_text">Flies straight ahead and deals damage to any target hit.</div>
             <div class="monster_notes">Bowboy shoots these arrows.</div>
@@ -119,15 +131,17 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Atk</div>
+              <div>6</div>
+              <div>Range</div>
+              <div>10</div>
               <div>Buy</div>
               <div>30</div>
               <div>Sell</div>
               <div>12</div>
-              <div>Range</div>
-              <div>10</div>
             </div>
             <div class="monster_text">Flies straight ahead and deals damage to any target hit.<br/>Deals even more damage than Wooden Arrow.</div>
-            <div class="monster_notes">Crossbowboy and Baby Tank shoots these arrows.</div>
+            <div class="monster_notes">Crossbowboy and Baby Tank shoot these arrows.</div>
           </div>
         </div>
       </td>
@@ -147,12 +161,14 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Atk</div>
+              <div>2</div>
+              <div>Range</div>
+              <div>∞</div>
               <div>Buy</div>
               <div>50</div>
               <div>Sell</div>
               <div>20</div>
-              <div>Range</div>
-              <div>∞</div>
             </div>
             <div class="monster_text">Flies straight ahead and deals damage to any target hit.<br/>Flies indefinitely, passing through walls and beings.</div>
             <div class="monster_notes">Can hit Behemoth monsters from the front.<br/>Mini Tank shoots these arrows.</div>
@@ -175,15 +191,17 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Atk</div>
+              <div>1</div>
+              <div>Range</div>
+              <div>10</div>
               <div>Buy</div>
               <div>100</div>
               <div>Sell</div>
               <div>40</div>
-              <div>Range</div>
-              <div>10</div>
             </div>
             <div class="monster_text">Flies straight ahead and deals damage to any target hit.<br/>Poison decreases Strength and Attack Power.</div>
-            <div class="monster_notes">Scorpion and Ghost Radish types gain attack power.</div>
+            <div class="monster_notes">Jakaku, Scorpion, and Ghost Radish types gain attack power.</div>
           </div>
         </div>
       </td>
@@ -203,12 +221,14 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Atk</div>
+              <div>4</div>
+              <div>Range</div>
+              <div>10</div>
               <div>Buy</div>
               <div>120</div>
               <div>Sell</div>
               <div>48</div>
-              <div>Range</div>
-              <div>10</div>
             </div>
             <div class="monster_text">Flies straight ahead and deals damage to any target hit.<br/>Always hits its target.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -231,12 +251,14 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Atk</div>
+              <div>-</div>
+              <div>Range</div>
+              <div>3</div>
               <div>Buy</div>
               <div>10</div>
               <div>Sell</div>
               <div>4</div>
-              <div>Range</div>
-              <div>3</div>
             </div>
             <div class="monster_text">Flies in an arc and deals 12 damage to any target hit.<br/>Can fly up to 3 tile(s).</div>
             <div class="monster_notes">Can hit Behemoth monsters from the front.</div>
@@ -259,12 +281,14 @@ metaDescription: "Complete projectile details for Shiren the Wanderer: The Myste
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Atk</div>
+              <div>-</div>
+              <div>Range</div>
+              <div>3</div>
               <div>Buy</div>
               <div>50</div>
               <div>Sell</div>
               <div>20</div>
-              <div>Range</div>
-              <div>3</div>
             </div>
             <div class="monster_text">Flies at monsters and deals 20 damage to any target hit.<br/>Can fly up to 3 tile(s).</div>
             <div class="monster_notes">Can hit Behemoth monsters from the front.</div>

@@ -28,82 +28,82 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
   <tr>
     <td class="priceTableName"><a href="#heat-ban-incense">Heat-ban Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Nullifies fire and explosion damage.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#evasive-incense">Evasive Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Makes all non-truestrike projectiles miss.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#cautious-incense">Cautious Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Items won't be accidentally dropped or stolen.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#reflective-incense">Reflective Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Reflects magic bullets and certain special attacks.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#aggressive-incense">Aggressive Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Doubles damage received.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#defensive-incense">Defensive Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Halves damage received.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#blurry-incense">Blurry Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Reduces field of view to a 1 tile radius.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#weighted-incense">Weighted Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Prevents moving in the air or warping.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#unwanting-incense">Unwanting Incense</a></td>
     <td>2000</td>
-    <td></td>
+    <td>100</td>
     <td>800</td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2~4</td>
     <td class="leftText">Can't pick up items.<br/>Monsters won't steal or go after items.</td>
   </tr>
 </table>
@@ -127,12 +127,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item grants all beings Heat-negated status,<br/>preventing damage from fire or explosions.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -155,12 +155,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item grants all beings Evasive status,<br/>making Arrows and thrown items miss.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -183,12 +183,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item grants all beings Cautious status,<br/>preventing items from being dropped or stolen.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -211,12 +211,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item grants all beings Reflective status,<br/>allowing them to reflect magic bullets and some abilities.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -239,12 +239,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item inflicts all beings with Damage-up status,<br/>increasing damage taken.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -267,12 +267,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item grants all beings Damage-down status,<br/>decreasing damage taken.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -295,12 +295,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item inflicts all beings with Blurry status,<br/>making them unable to see more than 1 tile(s) away.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -323,12 +323,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item inflicts all beings with Weighted status,<br/>making them unable to fly or warp.</div>
             <div class="monster_notes">No additional notes.</div>
@@ -351,12 +351,12 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
           </div>
           <div>
             <div class="monsterPageFlex monster_stats">
+              <div>Size</div>
+              <div>2~4</div>
               <div>Buy</div>
               <div>2000</div>
               <div>Sell</div>
               <div>800</div>
-              <div>Size</div>
-              <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item inflicts all beings with Unwanting status,<br/>making them unable to pick up or steal items.<br/>Monsters will ignore items on the ground.</div>
             <div class="monster_notes">No additional notes.</div>

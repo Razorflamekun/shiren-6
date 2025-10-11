@@ -12,7 +12,7 @@ metaDescription: "Postgame guide for Shiren the Wanderer: The Mystery Dungeon of
 
 Congratulations on clearing the main story! You're now finished with the tutorial.<br/>That's right - The main story was just the introduction to Shiren 6, and there's lots more to do!
 
-There are up to 33 other dungeons besides Serpentcoil Island (excluding hidden routes) with various rules.<br/>In addition, there's a notebook to complete, up to 78 achievements to aim for, and a secret title screen.<br/><span class="orangeText">※ This page was last edited on April 16th, 2025 (Game version 2.2.3).</span>
+There are up to 33 other dungeons besides Serpentcoil Island (excluding hidden routes) with various rules.<br/>In addition, there's a notebook to complete, up to 78 achievements to aim for, and a secret title screen.<br/><span class="orangeText">※ This page was last edited on July 14th, 2025 (Game version 2.2.3).</span>
 
 # Dungeons
 
@@ -650,15 +650,10 @@ Keep in mind that this difficulty ranking is an opinion piece, and isn't absolut
       <td>-</td>
     </tr>
     <tr class="tableBorder">
-      <td rowspan="8" class="centeredText highlightGray">Rank 5</td>
+      <td rowspan="7" class="centeredText highlightGray">Rank 5</td>
       <td class="highlightGreen">Update</td>
       <td>Training Path of Inference (50F)</td>
       <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightLightblue">Base</td>
-      <td>Training Path of Extra Inference (20F)</td>
-      <td>Descend to 20F.</td>
     </tr>
     <tr>
       <td class="highlightGreen">Update</td>
@@ -691,10 +686,20 @@ Keep in mind that this difficulty ranking is an opinion piece, and isn't absolut
       <td>-</td>
     </tr>
     <tr class="tableBorder">
-      <td rowspan="6" class="centeredText highlightGray">Rank 4</td>
+      <td rowspan="8" class="centeredText highlightGray">Rank 4</td>
       <td class="highlightLightblue">Base</td>
       <td>Yamakagashi Pass (25F)</td>
       <td>Including boss fight.</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Extra Inference (20F)</td>
+      <td>Descend to 20F.</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Trapper's Secret Path (99F)</td>
+      <td>-</td>
     </tr>
     <tr>
       <td class="highlightGreen">Update</td>
@@ -718,8 +723,8 @@ Keep in mind that this difficulty ranking is an opinion piece, and isn't absolut
     </tr>
     <tr>
       <td class="highlightYellow">DLC</td>
-      <td>Battleground of the Rivals (24F)</td>
-      <td>-</td>
+      <td>Peachy Trap Domain (50F)</td>
+      <td>Farming Techniques lowers its rank.</td>
     </tr>
     <tr class="tableBorder">
       <td rowspan="5" class="centeredText highlightGray">Rank 3</td>
@@ -739,19 +744,19 @@ Keep in mind that this difficulty ranking is an opinion piece, and isn't absolut
     </tr>
     <tr>
       <td class="highlightGreen">Update</td>
-      <td>Trapper's Secret Path (99F)</td>
+      <td>Training Path of Hiding (20F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td class="highlightGreen">Update</td>
-      <td>Training Path of Hiding (20F)</td>
+      <td class="highlightYellow">DLC</td>
+      <td>Battleground of the Rivals (24F)</td>
       <td>-</td>
     </tr>
     <tr class="tableBorder">
       <td rowspan="5" class="centeredText highlightGray">Rank 2</td>
       <td class="highlightLightblue">Base</td>
       <td>Cavern of Suiryu (20F)</td>
-      <td>Normal Shiren raises its rank.</td>
+      <td>Playing as Kokatsu Shiren.</td>
     </tr>
     <tr>
       <td class="highlightLightblue">Base</td>
@@ -793,6 +798,32 @@ Keep in mind that this difficulty ranking is an opinion piece, and isn't absolut
       <td class="highlightGreen">Update</td>
       <td>Go Go Dungeon (5F)</td>
       <td>Only clearing it 1 time.</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="5" class="centeredText highlightGray">???</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Cavern of Suiryu (20F)</td>
+      <td>Playing as Normal Shiren.</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Cliff of Condensing (25F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Wild Monster Path (50F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Training Path of Deadly Strikes (30F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Floral Garden (25F)</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -900,16 +931,26 @@ Keep in mind that this difficulty ranking is an opinion piece, and isn't absolut
     <tr>
       <td rowspan="2" class="centeredText highlightGray">Rank 4<br/>(Hard)</td>
       <td class="highlightGreen">Update</td>
-      <td>Training Path of Shopping (99F)</td>
+      <td>Training Path of Gimmicks (50F)</td>
       <td>No bringing items.</td>
     </tr>
     <tr>
       <td class="highlightGreen">Update</td>
-      <td>Training Path of Gimmicks (50F)</td>
+      <td>Training Path of Shopping (99F)</td>
       <td>No bringing items.</td>
     </tr>
     <tr class="tableBorder">
-      <td rowspan="4" class="centeredText highlightGray">Rank 3</td>
+      <td rowspan="6" class="centeredText highlightGray">Rank 3</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Gimmicks (20F)</td>
+      <td>No bringing items.</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Shopping (40F)</td>
+      <td>No bringing items.</td>
+    </tr>
+    <tr>
       <td class="highlightGreen">Update</td>
       <td>Isle of the Mighty (99F)</td>
       <td>Bring items from 1 run of Heart.</td>
